@@ -168,11 +168,11 @@
                             <h1 class="full right last"><?php the_title(); ?></h1>
                             
                             <!-- META -->
-                            <aside class="left-aside right fourth">
-                                <ul class="meta">
+<!--                            <aside class="left-aside right fourth">-->
+<!--                                <ul class="meta">-->
                                     <?php get_sidebar(); ?>
-                                </ul>	
-                            </aside> 
+<!--                                </ul>	-->
+<!--                            </aside> -->
 
                             <div class="three-fourths left">
 

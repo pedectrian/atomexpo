@@ -57,7 +57,7 @@
       <file leaf-file-name="template_single.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/inc/templates/template_single.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="176" column="58" selection-start="7701" selection-end="7701" vertical-scroll-proportion="0.55852157" vertical-offset="2368" max-vertical-offset="4065">
+            <state line="173" column="44" selection-start="7624" selection-end="7666" vertical-scroll-proportion="0.43531826" vertical-offset="2383" max-vertical-offset="4065">
               <folding />
             </state>
           </provider>
@@ -289,7 +289,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/inc/templates/template_single.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="176" column="58" selection-start="7701" selection-end="7701" vertical-scroll-proportion="0.55852157" vertical-offset="2368" max-vertical-offset="4065">
+        <state line="173" column="44" selection-start="7624" selection-end="7666" vertical-scroll-proportion="0.43531826" vertical-offset="2383" max-vertical-offset="4065">
           <folding />
         </state>
       </provider>
