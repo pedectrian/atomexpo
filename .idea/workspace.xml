@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f37f1a3a-11dd-47ea-9d01-c3e12a47a331" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inc/templates/template_single.php" afterPath="$PROJECT_DIR$/inc/templates/template_single.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style.css" afterPath="$PROJECT_DIR$/style.css" />
     </list>
     <ignored path="atomexpo.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,7 +28,7 @@
       <file leaf-file-name="functions.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/functions.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="264" column="60" selection-start="11797" selection-end="11797" vertical-scroll-proportion="-6.25" vertical-offset="3540" max-vertical-offset="11775">
+            <state line="308" column="31" selection-start="13204" selection-end="13204" vertical-scroll-proportion="69.0" vertical-offset="6006" max-vertical-offset="11775">
               <folding>
                 <marker date="1410239438000" expanded="true" signature="18698:18714" placeholder="Insert into ..." />
               </folding>
@@ -45,19 +45,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3870" column="1" selection-start="93408" selection-end="93408" vertical-scroll-proportion="-5.1923075" vertical-offset="57915" max-vertical-offset="58950">
+            <state line="3871" column="13" selection-start="93431" selection-end="93431" vertical-scroll-proportion="0.52577317" vertical-offset="57810" max-vertical-offset="58950">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="template_single.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="template_single.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/inc/templates/template_single.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="167" column="43" selection-start="7290" selection-end="7290" vertical-scroll-proportion="0.661191" vertical-offset="2183" max-vertical-offset="3990">
+            <state line="167" column="43" selection-start="7290" selection-end="7290" vertical-scroll-proportion="-13.416667" vertical-offset="2183" max-vertical-offset="3990">
               <folding />
             </state>
           </provider>
@@ -116,8 +116,8 @@
         <option value="$PROJECT_DIR$/searchform.php" />
         <option value="$PROJECT_DIR$/taxonomy-people_category.php" />
         <option value="$PROJECT_DIR$/inc/templates/template_blog_loop.php" />
-        <option value="$PROJECT_DIR$/style.css" />
         <option value="$PROJECT_DIR$/inc/templates/template_single.php" />
+        <option value="$PROJECT_DIR$/style.css" />
       </list>
     </option>
   </component>
@@ -236,15 +236,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="264" column="60" selection-start="11797" selection-end="11797" vertical-scroll-proportion="-6.25" vertical-offset="3540" max-vertical-offset="11775">
-          <folding>
-            <marker date="1410239438000" expanded="true" signature="18698:18714" placeholder="Insert into ..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/searchform.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="130" selection-start="433" selection-end="433" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="180">
@@ -280,16 +271,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/style.css">
+    <entry file="file://$PROJECT_DIR$/inc/templates/template_single.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3870" column="1" selection-start="93408" selection-end="93408" vertical-scroll-proportion="-5.1923075" vertical-offset="57915" max-vertical-offset="58950">
+        <state line="167" column="43" selection-start="7290" selection-end="7290" vertical-scroll-proportion="-13.416667" vertical-offset="2183" max-vertical-offset="3990">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/inc/templates/template_single.php">
+    <entry file="file://$PROJECT_DIR$/functions.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="167" column="43" selection-start="7290" selection-end="7290" vertical-scroll-proportion="0.661191" vertical-offset="2183" max-vertical-offset="3990">
+        <state line="308" column="31" selection-start="13204" selection-end="13204" vertical-scroll-proportion="69.0" vertical-offset="6006" max-vertical-offset="11775">
+          <folding>
+            <marker date="1410239438000" expanded="true" signature="18698:18714" placeholder="Insert into ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3871" column="13" selection-start="93431" selection-end="93431" vertical-scroll-proportion="0.52577317" vertical-offset="57810" max-vertical-offset="58950">
           <folding />
         </state>
       </provider>

@@ -3866,11 +3866,11 @@ img.aligncenter {display: block; margin-left: auto; margin-right: auto}
     padding: 20px 0 0 0 !important;
     font-size: 15px;
 }
-.type-post .four-fifths {
-    /*width: 100% !important;*/
+body.archive .type-post .four-fifths {
+    width: 100% !important;
 }
-.type-post .left-aside.fifth {
-    /*display: none;*/
+body.archive .type-post .left-aside.fifth {
+    display: none;
 }
 .vc_responsive div[class*='vc_span'] {
     display: inline-block !important;
