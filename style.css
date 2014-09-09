@@ -3920,3 +3920,6 @@ body.archive .mosaic-block {
     float: left;
     margin-right: 20px;
 }
+.calendar-archives .cal-nav .year-nav .arrow-down {
+    right: 10px;
+}
