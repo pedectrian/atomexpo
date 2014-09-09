@@ -170,7 +170,7 @@
                             <!-- META -->
                             <aside class="left-aside left fifth">
                                 <ul class="meta">
-
+                                    <?php get_sidebar('search'); ?>
                                 </ul>	
                             </aside> 
 
