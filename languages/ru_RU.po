@@ -1,0 +1,2976 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Trades v1.6\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-08-27 05:36:39+0000\n"
+"Last-Translator: admin <pedectrian@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%100/10==1 ? 2 : n%10==1 ? 0 : (n+9)%10>3 ? 2 : 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: archive.php:12
+#@ loc_canon
+msgid "category"
+msgstr ""
+
+#: archive.php:16
+#@ loc_canon
+msgid "tag"
+msgstr ""
+
+#: archive.php:22
+#@ loc_canon
+msgid "search"
+msgstr ""
+
+#: archive.php:26
+#@ loc_canon
+msgid "author"
+msgstr ""
+
+#: archive.php:30
+#@ loc_canon
+msgid "day"
+msgstr ""
+
+#: archive.php:34
+#@ loc_canon
+msgid "month"
+msgstr ""
+
+#: archive.php:38
+#@ loc_canon
+msgid "year"
+msgstr ""
+
+#: archive.php:42
+#: taxonomy-people_category.php:9
+#@ loc_canon
+msgid "group"
+msgstr ""
+
+#: archive.php:46
+#@ loc_canon
+msgid "browsing"
+msgstr ""
+
+#: archive.php:47
+#@ loc_canon
+msgid "Unknown"
+msgstr ""
+
+#: archive.php:74
+#: taxonomy-people_category.php:35
+#@ loc_canon
+msgid "results"
+msgstr ""
+
+#: archive.php:74
+#: taxonomy-people_category.php:35
+#@ loc_canon
+msgid "result"
+msgstr ""
+
+#: archive.php:74
+#: taxonomy-people_category.php:35
+#@ loc_canon
+msgid "for"
+msgstr ""
+
+#: archive.php:98
+#: inc/templates/template_blog_loop.php:42
+#: inc/templates/template_blog_loop.php:101
+#: inc/templates/template_blog_loop.php:145
+#: inc/templates/template_single.php:175
+#: inc/templates/template_single_multi.php:42
+#@ loc_canon
+msgid "No comments"
+msgstr ""
+
+#: archive.php:98
+#: inc/templates/template_blog_loop.php:42
+#: inc/templates/template_blog_loop.php:101
+#: inc/templates/template_blog_loop.php:145
+#: inc/templates/template_single.php:175
+#: inc/templates/template_single_multi.php:42
+#@ loc_canon
+msgid "1 comment"
+msgstr ""
+
+#: archive.php:98
+#: inc/templates/template_blog_loop.php:42
+#: inc/templates/template_blog_loop.php:101
+#: inc/templates/template_blog_loop.php:145
+#: inc/templates/template_single.php:175
+#: inc/templates/template_single_multi.php:42
+#@ loc_canon
+msgid "comments"
+msgstr ""
+
+#: bbpress/bbpress.php:37
+#: buddypress/buddypress.php:37
+#: inc/templates/template_single.php:242
+#: inc/templates/template_single_project.php:119
+#: page-contact.php:71
+#: page-full-width.php:60
+#: page.php:59
+#: single-cpt_people.php:89
+#@ loc_canon
+msgid "Pages:"
+msgstr ""
+
+#: comments.php:20
+#@ loc_canon
+msgid "Reply"
+msgstr ""
+
+#: comments.php:21
+#@ loc_canon
+msgid "Edit"
+msgstr ""
+
+#: comments.php:25
+#@ loc_canon
+msgid "Comment awaiting approval"
+msgstr ""
+
+#: comments.php:47
+#@ loc_canon
+msgid "No Replies"
+msgstr ""
+
+#: comments.php:47
+#@ loc_canon
+msgid "1 Reply"
+msgstr ""
+
+#: comments.php:47
+#@ loc_canon
+msgid "Replies"
+msgstr ""
+
+#: comments.php:48
+#@ loc_canon
+msgid "to"
+msgstr ""
+
+#: comments.php:68
+#@ loc_canon
+msgid "Comment"
+msgstr ""
+
+#: comments.php:77
+#@ loc_canon
+msgid "Name"
+msgstr ""
+
+#: comments.php:78
+#@ loc_canon
+msgid "Email"
+msgstr ""
+
+#: comments.php:79
+#@ loc_canon
+msgid "Website"
+msgstr ""
+
+#: comments.php:83
+#@ loc_canon
+msgid "Some html is OK"
+msgstr ""
+
+#: comments.php:85
+#@ loc_canon
+msgid "Got something to say?"
+msgstr ""
+
+#: comments.php:86
+#@ loc_canon
+msgid "Cancel reply"
+msgstr ""
+
+#: comments.php:87
+#@ loc_canon
+msgid "Send Message"
+msgstr ""
+
+#: functions.php:650
+#: functions.php:694
+#: functions.php:769
+#: page-timeline.php:176
+#: page-timeline.php:220
+#: page-timeline.php:295
+#@ loc_canon
+msgid "more"
+msgstr ""
+
+#: inc/framework/fw_option.php:360
+#@ loc_canon
+msgid "Theme default"
+msgstr ""
+
+#: inc/functions/functions_custom.php:419
+#@ loc_canon
+msgid "January"
+msgstr ""
+
+#: inc/functions/functions_custom.php:420
+#@ loc_canon
+msgid "February"
+msgstr ""
+
+#: inc/functions/functions_custom.php:421
+#@ loc_canon
+msgid "March"
+msgstr ""
+
+#: inc/functions/functions_custom.php:422
+#@ loc_canon
+msgid "April"
+msgstr ""
+
+#: inc/functions/functions_custom.php:423
+#: inc/functions/functions_custom.php:436
+#@ loc_canon
+msgid "May"
+msgstr ""
+
+#: inc/functions/functions_custom.php:424
+#@ loc_canon
+msgid "June"
+msgstr ""
+
+#: inc/functions/functions_custom.php:425
+#@ loc_canon
+msgid "July"
+msgstr ""
+
+#: inc/functions/functions_custom.php:426
+#@ loc_canon
+msgid "August"
+msgstr ""
+
+#: inc/functions/functions_custom.php:427
+#@ loc_canon
+msgid "September"
+msgstr ""
+
+#: inc/functions/functions_custom.php:428
+#@ loc_canon
+msgid "October"
+msgstr ""
+
+#: inc/functions/functions_custom.php:429
+#@ loc_canon
+msgid "November"
+msgstr ""
+
+#: inc/functions/functions_custom.php:430
+#@ loc_canon
+msgid "December"
+msgstr ""
+
+#: inc/functions/functions_custom.php:432
+#@ loc_canon
+msgid "Jan"
+msgstr ""
+
+#: inc/functions/functions_custom.php:433
+#@ loc_canon
+msgid "Feb"
+msgstr ""
+
+#: inc/functions/functions_custom.php:434
+#@ loc_canon
+msgid "Mar"
+msgstr ""
+
+#: inc/functions/functions_custom.php:435
+#@ loc_canon
+msgid "Apr"
+msgstr ""
+
+#: inc/functions/functions_custom.php:437
+#@ loc_canon
+msgid "Jun"
+msgstr ""
+
+#: inc/functions/functions_custom.php:438
+#@ loc_canon
+msgid "Jul"
+msgstr ""
+
+#: inc/functions/functions_custom.php:439
+#@ loc_canon
+msgid "Aug"
+msgstr ""
+
+#: inc/functions/functions_custom.php:440
+#@ loc_canon
+msgid "Sep"
+msgstr ""
+
+#: inc/functions/functions_custom.php:441
+#@ loc_canon
+msgid "Oct"
+msgstr ""
+
+#: inc/functions/functions_custom.php:442
+#@ loc_canon
+msgid "Nov"
+msgstr ""
+
+#: inc/functions/functions_custom.php:443
+#@ loc_canon
+msgid "Dec"
+msgstr ""
+
+#: inc/functions/functions_custom.php:445
+#@ loc_canon
+msgid "Monday"
+msgstr ""
+
+#: inc/functions/functions_custom.php:446
+#@ loc_canon
+msgid "Tuesday"
+msgstr ""
+
+#: inc/functions/functions_custom.php:447
+#@ loc_canon
+msgid "Wednesday"
+msgstr ""
+
+#: inc/functions/functions_custom.php:448
+#@ loc_canon
+msgid "Thursday"
+msgstr ""
+
+#: inc/functions/functions_custom.php:449
+#@ loc_canon
+msgid "Friday"
+msgstr ""
+
+#: inc/functions/functions_custom.php:450
+#@ loc_canon
+msgid "Saturday"
+msgstr ""
+
+#: inc/functions/functions_custom.php:451
+#@ loc_canon
+msgid "Sunday"
+msgstr ""
+
+#: inc/functions/functions_custom.php:453
+#@ loc_canon
+msgid "Mon"
+msgstr ""
+
+#: inc/functions/functions_custom.php:454
+#@ loc_canon
+msgid "Tue"
+msgstr ""
+
+#: inc/functions/functions_custom.php:455
+#@ loc_canon
+msgid "Wed"
+msgstr ""
+
+#: inc/functions/functions_custom.php:456
+#@ loc_canon
+msgid "Thu"
+msgstr ""
+
+#: inc/functions/functions_custom.php:457
+#@ loc_canon
+msgid "Fri"
+msgstr ""
+
+#: inc/functions/functions_custom.php:458
+#@ loc_canon
+msgid "Sat"
+msgstr ""
+
+#: inc/functions/functions_custom.php:459
+#@ loc_canon
+msgid "Sun"
+msgstr ""
+
+#: inc/functions/functions_tgm.php:133
+#: inc/lib/class-tgm-plugin-activation.php:155
+#@ loc_canon
+#@ tgmpa
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/functions/functions_tgm.php:134
+#: inc/lib/class-tgm-plugin-activation.php:156
+#@ loc_canon
+#@ tgmpa
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/functions/functions_tgm.php:135
+#: inc/lib/class-tgm-plugin-activation.php:157
+#, php-format
+#@ loc_canon
+#@ tgmpa
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/functions/functions_tgm.php:136
+#@ loc_canon
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/functions/functions_tgm.php:137
+#: inc/lib/class-tgm-plugin-activation.php:159
+#, php-format
+#@ loc_canon
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: inc/functions/functions_tgm.php:138
+#: inc/lib/class-tgm-plugin-activation.php:160
+#, php-format
+#@ loc_canon
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: inc/functions/functions_tgm.php:139
+#: inc/lib/class-tgm-plugin-activation.php:161
+#, php-format
+#@ loc_canon
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: inc/functions/functions_tgm.php:140
+#: inc/lib/class-tgm-plugin-activation.php:162
+#, php-format
+#@ loc_canon
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: inc/functions/functions_tgm.php:141
+#: inc/lib/class-tgm-plugin-activation.php:163
+#, php-format
+#@ loc_canon
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: inc/functions/functions_tgm.php:142
+#: inc/lib/class-tgm-plugin-activation.php:164
+#, php-format
+#@ loc_canon
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: inc/functions/functions_tgm.php:143
+#: inc/lib/class-tgm-plugin-activation.php:165
+#, php-format
+#@ loc_canon
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: inc/functions/functions_tgm.php:144
+#: inc/lib/class-tgm-plugin-activation.php:166
+#, php-format
+#@ loc_canon
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: inc/functions/functions_tgm.php:145
+#: inc/lib/class-tgm-plugin-activation.php:167
+#@ loc_canon
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: inc/functions/functions_tgm.php:146
+#: inc/lib/class-tgm-plugin-activation.php:168
+#@ loc_canon
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: inc/functions/functions_tgm.php:147
+#: inc/lib/class-tgm-plugin-activation.php:169
+#@ loc_canon
+#@ tgmpa
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/functions/functions_tgm.php:148
+#: inc/lib/class-tgm-plugin-activation.php:171
+#: inc/lib/class-tgm-plugin-activation.php:1840
+#@ loc_canon
+#@ tgmpa
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/functions/functions_tgm.php:149
+#, php-format
+#@ loc_canon
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:158
+#@ tgmpa
+msgid "Something went wrong."
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:170
+#@ tgmpa
+msgid "Return to the dashboard"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:173
+#, php-format
+#@ tgmpa
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:174
+#@ tgmpa
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:1085
+#@ tgmpa
+msgid "External Link"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:1090
+#@ tgmpa
+msgid "Private Repository"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:1093
+#@ tgmpa
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:1097
+#@ tgmpa
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:1100
+#@ tgmpa
+msgid "Required"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:1100
+#@ tgmpa
+msgid "Recommended"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:1103
+#@ tgmpa
+msgid "Not Installed"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:1105
+#@ tgmpa
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:1275
+#, php-format
+#@ tgmpa
+msgid "No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:1291
+#@ tgmpa
+msgid "Plugin"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:1292
+#@ tgmpa
+msgid "Source"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:1293
+#@ tgmpa
+msgid "Type"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:1294
+#@ tgmpa
+msgid "Status"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:1312
+#@ tgmpa
+msgid "Install"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:1313
+#@ tgmpa
+msgid "Activate"
+msgstr ""
+
+#. gettext fix: identical singular and plural forms found, that may be ambiguous! Please check the code!
+#: inc/lib/class-tgm-plugin-activation.php:1538
+#: inc/lib/class-tgm-plugin-activation.php:172
+#@ tgmpa
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: inc/lib/class-tgm-plugin-activation.php:1823
+#@ tgmpa
+msgid "Install package not available."
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:1824
+#, php-format
+#@ tgmpa
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:1825
+#@ tgmpa
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:1826
+#@ tgmpa
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:1827
+#@ tgmpa
+msgid "Plugin install failed."
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:1828
+#@ tgmpa
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:1839
+#@ tgmpa
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:1949
+#@ tgmpa
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:1950
+#, php-format
+#@ tgmpa
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:1950
+#: inc/lib/class-tgm-plugin-activation.php:1959
+#@ tgmpa
+msgid "Show Details"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:1950
+#: inc/lib/class-tgm-plugin-activation.php:1959
+#@ tgmpa
+msgid "Hide Details"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:1951
+#@ tgmpa
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:1952
+#, php-format
+#@ tgmpa
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:1956
+#@ tgmpa
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:1957
+#, php-format
+#@ tgmpa
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:1958
+#, php-format
+#@ tgmpa
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:1959
+#, php-format
+#@ tgmpa
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:1960
+#@ tgmpa
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:1961
+#, php-format
+#@ tgmpa
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/lib/class-tgm-plugin-activation.php:2052
+#@ tgmpa
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/options/options_advanced.php:5
+#@ loc_canon
+msgid "Advanced"
+msgstr ""
+
+#: inc/options/options_advanced.php:130
+#: inc/options/options_advanced.php:137
+#@ loc_canon
+msgid "Widget Areas Manager"
+msgstr ""
+
+#: inc/options/options_advanced.php:139
+#@ loc_canon
+msgid "Here you can create new custom widget areas. Give each widget area a unique name."
+msgstr ""
+
+#: inc/options/options_advanced.php:140
+#@ loc_canon
+msgid "You can drag and drop to decide the order of which the widget areas will display in the widgets section."
+msgstr ""
+
+#: inc/options/options_advanced.php:141
+#@ loc_canon
+msgid "To add widgets to your custom widget areas go to <i>WordPress Appearance > Widgets</i>."
+msgstr ""
+
+#: inc/options/options_advanced.php:142
+#@ loc_canon
+msgid "To display your custom widget areas go to Pagebuilder and add a Widgets block to one of your pages."
+msgstr ""
+
+#: inc/options/options_advanced.php:162
+#: inc/options/options_advanced.php:185
+#@ loc_canon
+msgid "Custom Widget Area Name"
+msgstr ""
+
+#: inc/options/options_advanced.php:163
+#: inc/options/options_advanced.php:186
+#@ loc_canon
+msgid "Delete"
+msgstr ""
+
+#: inc/options/options_advanced.php:173
+#@ loc_canon
+msgid "Custom Widget Areas"
+msgstr ""
+
+#: inc/options/options_advanced.php:204
+#@ loc_canon
+msgid "Create new custom widget area"
+msgstr ""
+
+#: inc/options/options_advanced.php:221
+#@ loc_canon
+msgid "Final Call CSS"
+msgstr ""
+
+#: inc/options/options_advanced.php:229
+#@ loc_canon
+msgid "Final call CSS"
+msgstr ""
+
+#: inc/options/options_advanced.php:231
+#@ loc_canon
+msgid "Put your own CSS code here. This CSS will be called last and overwrites all theme CSS."
+msgstr ""
+
+#: inc/options/options_advanced.php:232
+#@ loc_canon
+msgid "Final call CSS will be exported/imported along with all other theme settings when using the <i>Import/Export</i> option."
+msgstr ""
+
+#: inc/options/options_advanced.php:246
+#@ loc_canon
+msgid "Use final call CSS"
+msgstr ""
+
+#: inc/options/options_advanced.php:280
+#@ loc_canon
+msgid "Import/Export Settings"
+msgstr ""
+
+#: inc/options/options_advanced.php:287
+#@ loc_canon
+msgid "Import/Export settings"
+msgstr ""
+
+#: inc/options/options_advanced.php:289
+#@ loc_canon
+msgid "Use this section to import/export your settings."
+msgstr ""
+
+#: inc/options/options_advanced.php:295
+#@ loc_canon
+msgid "Generate settings data"
+msgstr ""
+
+#: inc/options/options_advanced.php:297
+#@ loc_canon
+msgid "Clicking this button will generate settings data. You can copy this data from the settings data window."
+msgstr ""
+
+#: inc/options/options_advanced.php:298
+#@ loc_canon
+msgid "Clicking the window will select all text."
+msgstr ""
+
+#: inc/options/options_advanced.php:299
+#@ loc_canon
+msgid "Press CTRL+C on your keyboard or right click selected text and select copy."
+msgstr ""
+
+#: inc/options/options_advanced.php:300
+#@ loc_canon
+msgid "Once you have copied the data you can either save it to a text document/file (safest) or simply keep the data in your copy/paste clipboard (not safe)."
+msgstr ""
+
+#: inc/options/options_advanced.php:306
+#: inc/options/options_advanced.php:333
+#@ loc_canon
+msgid "Import settings data"
+msgstr ""
+
+#: inc/options/options_advanced.php:308
+#@ loc_canon
+msgid "Clicking this button will import your settings data from the data string supplied in the settings data window."
+msgstr ""
+
+#: inc/options/options_advanced.php:309
+#@ loc_canon
+msgid "Make sure you paste all of the data into the settings data textarea/window. If part of the code is altered or left out import will fail."
+msgstr ""
+
+#: inc/options/options_advanced.php:310
+#@ loc_canon
+msgid "Click the \"Import settings data\" button."
+msgstr ""
+
+#: inc/options/options_advanced.php:311
+#@ loc_canon
+msgid "Your setting have now been imported."
+msgstr ""
+
+#: inc/options/options_advanced.php:321
+#@ loc_canon
+msgid "Settings data"
+msgstr ""
+
+#: inc/options/options_advanced.php:344
+#@ loc_canon
+msgid "Reset basic settings .."
+msgstr ""
+
+#: inc/options/options_advanced.php:347
+#@ loc_canon
+msgid "Reset all settings .."
+msgstr ""
+
+#: inc/options/options_appearance.php:5
+#@ loc_canon
+msgid "Appearance"
+msgstr ""
+
+#: inc/options/options_appearance.php:35
+#: inc/options/options_appearance.php:43
+#@ loc_canon
+msgid "Skins"
+msgstr ""
+
+#: inc/options/options_appearance.php:45
+#@ loc_canon
+msgid "Click a skin-button to change the colour-scheme of the whole theme."
+msgstr ""
+
+#: inc/options/options_appearance.php:179
+#@ loc_canon
+msgid "Color settings"
+msgstr ""
+
+#: inc/options/options_appearance.php:187
+#@ loc_canon
+msgid "Colors"
+msgstr ""
+
+#: inc/options/options_appearance.php:189
+#@ loc_canon
+msgid "Change the colours of the theme. Remember to save your changes."
+msgstr ""
+
+#: inc/options/options_appearance.php:203
+#@ loc_canon
+msgid "General Text"
+msgstr ""
+
+#: inc/options/options_appearance.php:210
+#@ loc_canon
+msgid "Primary Feature Text"
+msgstr ""
+
+#: inc/options/options_appearance.php:217
+#@ loc_canon
+msgid "Secondary Feature Text"
+msgstr ""
+
+#: inc/options/options_appearance.php:224
+#@ loc_canon
+msgid "Main Plate Background"
+msgstr ""
+
+#: inc/options/options_appearance.php:231
+#@ loc_canon
+msgid "Body Background"
+msgstr ""
+
+#: inc/options/options_appearance.php:239
+#@ loc_canon
+msgid "Primary Headings"
+msgstr ""
+
+#: inc/options/options_appearance.php:246
+#@ loc_canon
+msgid "White Text"
+msgstr ""
+
+#: inc/options/options_appearance.php:253
+#@ loc_canon
+msgid "Meta Text"
+msgstr ""
+
+#: inc/options/options_appearance.php:260
+#@ loc_canon
+msgid "Header Menu Item Active"
+msgstr ""
+
+#: inc/options/options_appearance.php:267
+#@ loc_canon
+msgid "Pre/Post Header Menu Item"
+msgstr ""
+
+#: inc/options/options_appearance.php:274
+#@ loc_canon
+msgid "Header Menu Background"
+msgstr ""
+
+#: inc/options/options_appearance.php:281
+#@ loc_canon
+msgid "Pre/Post Header Background"
+msgstr ""
+
+#: inc/options/options_appearance.php:288
+#@ loc_canon
+msgid "Third Level Menu Background"
+msgstr ""
+
+#: inc/options/options_appearance.php:295
+#@ loc_canon
+msgid "Pre/Post Third Level Menu Background"
+msgstr ""
+
+#: inc/options/options_appearance.php:302
+#@ loc_canon
+msgid "Primary Feature Button"
+msgstr ""
+
+#: inc/options/options_appearance.php:309
+#@ loc_canon
+msgid "Secondary Feature Button"
+msgstr ""
+
+#: inc/options/options_appearance.php:316
+#@ loc_canon
+msgid "Tertiary Feature Button / Hover "
+msgstr ""
+
+#: inc/options/options_appearance.php:324
+#@ loc_canon
+msgid "Primary Feature Block"
+msgstr ""
+
+#: inc/options/options_appearance.php:331
+#@ loc_canon
+msgid "Secondary Feature Block"
+msgstr ""
+
+#: inc/options/options_appearance.php:339
+#@ loc_canon
+msgid "Pagination Buttons"
+msgstr ""
+
+#: inc/options/options_appearance.php:346
+#@ loc_canon
+msgid "White Button"
+msgstr ""
+
+#: inc/options/options_appearance.php:353
+#@ loc_canon
+msgid "Dark Buttons"
+msgstr ""
+
+#: inc/options/options_appearance.php:360
+#@ loc_canon
+msgid "Price Table Background"
+msgstr ""
+
+#: inc/options/options_appearance.php:367
+#@ loc_canon
+msgid "Form Fields Background"
+msgstr ""
+
+#: inc/options/options_appearance.php:374
+#@ loc_canon
+msgid "Form Fields Text"
+msgstr ""
+
+#: inc/options/options_appearance.php:381
+#@ loc_canon
+msgid "Light Block Elements"
+msgstr ""
+
+#: inc/options/options_appearance.php:388
+#@ loc_canon
+msgid "Border/Rulers Color"
+msgstr ""
+
+#: inc/options/options_appearance.php:395
+#@ loc_canon
+msgid "Footer Block"
+msgstr ""
+
+#: inc/options/options_appearance.php:402
+#@ loc_canon
+msgid "Footer Base"
+msgstr ""
+
+#: inc/options/options_appearance.php:409
+#@ loc_canon
+msgid "Footer Headings"
+msgstr ""
+
+#: inc/options/options_appearance.php:416
+#@ loc_canon
+msgid "Footer Text"
+msgstr ""
+
+#: inc/options/options_appearance.php:423
+#@ loc_canon
+msgid "Footer Feature Color"
+msgstr ""
+
+#: inc/options/options_appearance.php:430
+#@ loc_canon
+msgid "Footer Buttons"
+msgstr ""
+
+#: inc/options/options_appearance.php:437
+#@ loc_canon
+msgid "Footer Form Fields Background"
+msgstr ""
+
+#: inc/options/options_appearance.php:444
+#@ loc_canon
+msgid "Footer Form Fields Text"
+msgstr ""
+
+#: inc/options/options_appearance.php:451
+#@ loc_canon
+msgid "Footer Form Fields on Focus"
+msgstr ""
+
+#: inc/options/options_appearance.php:458
+#@ loc_canon
+msgid "Footer Border/Rulers Color"
+msgstr ""
+
+#: inc/options/options_appearance.php:465
+#@ loc_canon
+msgid "Responsive Menu Background"
+msgstr ""
+
+#: inc/options/options_appearance.php:482
+#@ loc_canon
+msgid "Background"
+msgstr ""
+
+#: inc/options/options_appearance.php:489
+#: inc/options/options_appearance.php:542
+#@ loc_canon
+msgid "Background image URL"
+msgstr ""
+
+#: inc/options/options_appearance.php:491
+#: inc/options/options_frame.php:523
+#: inc/options/options_general.php:82
+#@ loc_canon
+msgid "Enter a complete URL to the image you want to use or"
+msgstr ""
+
+#: inc/options/options_appearance.php:492
+#@ loc_canon
+msgid "Click the \"Upload\" button, upload an image and make sure you click the \"Use this image\" button or"
+msgstr ""
+
+#: inc/options/options_appearance.php:493
+#@ loc_canon
+msgid "Click the \"Upload\" button and choose an image from the media library tab. Make sure you click the \"Use this image\" button."
+msgstr ""
+
+#: inc/options/options_appearance.php:494
+#: inc/options/options_frame.php:527
+#: inc/options/options_general.php:86
+#@ loc_canon
+msgid "Remember to save your changes."
+msgstr ""
+
+#: inc/options/options_appearance.php:495
+#@ loc_canon
+msgid "NB: the background image will be positioned top-center."
+msgstr ""
+
+#: inc/options/options_appearance.php:501
+#: inc/options/options_appearance.php:550
+#@ loc_canon
+msgid "Background link (optional)"
+msgstr ""
+
+#: inc/options/options_appearance.php:503
+#@ loc_canon
+msgid "If you insert a link here you background will automatically be made clickable. Clicking the background will open up your link in a new window. Great for take-over style ad-campaigns."
+msgstr ""
+
+#: inc/options/options_appearance.php:504
+#@ loc_canon
+msgid "NB: Only works with boxed design."
+msgstr ""
+
+#: inc/options/options_appearance.php:510
+#: inc/options/options_appearance.php:558
+#: inc/options/options_appearance.php:561
+#@ loc_canon
+msgid "Repeat"
+msgstr ""
+
+#: inc/options/options_appearance.php:512
+#@ loc_canon
+msgid "If set to repeat the background image will repeat vertically."
+msgstr ""
+
+#: inc/options/options_appearance.php:518
+#@ loc_canon
+msgid "Attachement"
+msgstr ""
+
+#: inc/options/options_appearance.php:520
+#@ loc_canon
+msgid "If set to fixed the background image will not scroll."
+msgstr ""
+
+#: inc/options/options_appearance.php:526
+#: inc/options/options_appearance.php:581
+#@ loc_canon
+msgid "Background pattern"
+msgstr ""
+
+#: inc/options/options_appearance.php:528
+#@ loc_canon
+msgid "Click one of buttons to use that background pattern. Notice that the url of pattern image file will be automatically inserted into the Backgroun image URL input. Also notice that Repeat and attachment selects will be updated to recommended selections for use with pattern backgrounds (repeat fixed). Remember to save your changes."
+msgstr ""
+
+#: inc/options/options_appearance.php:544
+#@ loc_canon
+msgid "Upload background image"
+msgstr ""
+
+#: inc/options/options_appearance.php:562
+#@ loc_canon
+msgid "No repeat"
+msgstr ""
+
+#: inc/options/options_appearance.php:569
+#@ loc_canon
+msgid "Attachment"
+msgstr ""
+
+#: inc/options/options_appearance.php:572
+#@ loc_canon
+msgid "Fixed"
+msgstr ""
+
+#: inc/options/options_appearance.php:573
+#@ loc_canon
+msgid "Scroll"
+msgstr ""
+
+#: inc/options/options_appearance.php:606
+#@ loc_canon
+msgid "Google Webfonts"
+msgstr ""
+
+#: inc/options/options_appearance.php:613
+#@ loc_canon
+msgid "Change fonts"
+msgstr ""
+
+#: inc/options/options_appearance.php:615
+#@ loc_canon
+msgid "<i>first select:</i> Font name."
+msgstr ""
+
+#: inc/options/options_appearance.php:616
+#@ loc_canon
+msgid "<i>middle select:</i> Font variants (will change automatically if available for the chosen font)."
+msgstr ""
+
+#: inc/options/options_appearance.php:617
+#@ loc_canon
+msgid "<i>last select:</i> Font subset (will change automatically if available for the chosen font)."
+msgstr ""
+
+#: inc/options/options_appearance.php:623
+#@ loc_canon
+msgid "More info"
+msgstr ""
+
+#: inc/options/options_appearance.php:625
+#@ loc_canon
+msgid "Notice: You can only control the general fonts to be used. However, parameters like font size, styling, letter-spacing etc. are controlled by the theme itself."
+msgstr ""
+
+#: inc/options/options_appearance.php:626
+#@ loc_canon
+msgid "Go to <a href=\"http://www.google.com/webfonts\" target=\"_blank\">Google Webfonts</a> homepage to preview fonts."
+msgstr ""
+
+#: inc/options/options_appearance.php:640
+#@ loc_canon
+msgid "Body text"
+msgstr ""
+
+#: inc/options/options_appearance.php:647
+#@ loc_canon
+msgid "Quote text"
+msgstr ""
+
+#: inc/options/options_appearance.php:654
+#@ loc_canon
+msgid "Lead in text"
+msgstr ""
+
+#: inc/options/options_appearance.php:661
+#@ loc_canon
+msgid "Logo text"
+msgstr ""
+
+#: inc/options/options_appearance.php:668
+#@ loc_canon
+msgid "Bold text"
+msgstr ""
+
+#: inc/options/options_appearance.php:675
+#@ loc_canon
+msgid "Button text"
+msgstr ""
+
+#: inc/options/options_appearance.php:682
+#@ loc_canon
+msgid "Italic text"
+msgstr ""
+
+#: inc/options/options_appearance.php:689
+#@ loc_canon
+msgid "Main headings text"
+msgstr ""
+
+#: inc/options/options_appearance.php:696
+#@ loc_canon
+msgid "Second headings text"
+msgstr ""
+
+#: inc/options/options_appearance.php:703
+#@ loc_canon
+msgid "Nav style text"
+msgstr ""
+
+#: inc/options/options_appearance.php:710
+#@ loc_canon
+msgid "Widget footer text"
+msgstr ""
+
+#: inc/options/options_appearance.php:727
+#@ loc_canon
+msgid "Lightbox settings"
+msgstr ""
+
+#: inc/options/options_appearance.php:734
+#: inc/options/options_appearance.php:761
+#@ loc_canon
+msgid "Lightbox overlay color"
+msgstr ""
+
+#: inc/options/options_appearance.php:736
+#@ loc_canon
+msgid "Select the color of the lightbox overlay."
+msgstr ""
+
+#: inc/options/options_appearance.php:742
+#: inc/options/options_appearance.php:768
+#@ loc_canon
+msgid "Lightbox overlay opacity"
+msgstr ""
+
+#: inc/options/options_appearance.php:744
+#@ loc_canon
+msgid "Select the opacity of the lightbox overlay."
+msgstr ""
+
+#: inc/options/options_appearance.php:745
+#@ loc_canon
+msgid "Choose a value between 0 and 1."
+msgstr ""
+
+#: inc/options/options_appearance.php:746
+#@ loc_canon
+msgid "0 is completely transparent."
+msgstr ""
+
+#: inc/options/options_appearance.php:747
+#@ loc_canon
+msgid "1 is compeltely solid."
+msgstr ""
+
+#: inc/options/options_appearance.php:789
+#@ loc_canon
+msgid "Animation: Image Sliders"
+msgstr ""
+
+#: inc/options/options_appearance.php:801
+#: inc/options/options_appearance.php:833
+#: inc/options/options_appearance.php:885
+#: inc/options/options_appearance.php:917
+#@ loc_canon
+msgid "Slideshow"
+msgstr ""
+
+#: inc/options/options_appearance.php:803
+#: inc/options/options_appearance.php:887
+#@ loc_canon
+msgid "If checked slides will change automatically."
+msgstr ""
+
+#: inc/options/options_appearance.php:809
+#: inc/options/options_appearance.php:840
+#: inc/options/options_appearance.php:893
+#: inc/options/options_appearance.php:924
+#@ loc_canon
+msgid "Slide delay"
+msgstr ""
+
+#: inc/options/options_appearance.php:811
+#: inc/options/options_appearance.php:895
+#@ loc_canon
+msgid "Delay between each slide (in milliseconds)."
+msgstr ""
+
+#: inc/options/options_appearance.php:817
+#: inc/options/options_appearance.php:852
+#: inc/options/options_appearance.php:901
+#: inc/options/options_appearance.php:936
+#: inc/options/options_appearance.php:996
+#: inc/options/options_appearance.php:1079
+#: inc/options/options_appearance.php:1144
+#: inc/options/options_appearance.php:1206
+#@ loc_canon
+msgid "Animation duration"
+msgstr ""
+
+#: inc/options/options_appearance.php:819
+#: inc/options/options_appearance.php:903
+#@ loc_canon
+msgid "Duration of transition animation (in milliseconds)."
+msgstr ""
+
+#: inc/options/options_appearance.php:873
+#@ loc_canon
+msgid "Animation: Quote Sliders"
+msgstr ""
+
+#: inc/options/options_appearance.php:956
+#@ loc_canon
+msgid "Animation: Lazy Load Effect"
+msgstr ""
+
+#: inc/options/options_appearance.php:964
+#@ loc_canon
+msgid "Lazy Load Effect"
+msgstr ""
+
+#: inc/options/options_appearance.php:966
+#@ loc_canon
+msgid "When scrolling down elements fade in as they enter the viewport simulating lazy load."
+msgstr ""
+
+#: inc/options/options_appearance.php:972
+#: inc/options/options_appearance.php:1041
+#@ loc_canon
+msgid "Start animation after"
+msgstr ""
+
+#: inc/options/options_appearance.php:974
+#@ loc_canon
+msgid "Delay before animation starts (in seconds)."
+msgstr ""
+
+#: inc/options/options_appearance.php:980
+#: inc/options/options_appearance.php:1053
+#: inc/options/options_appearance.php:1128
+#: inc/options/options_appearance.php:1181
+#@ loc_canon
+msgid "Enter from"
+msgstr ""
+
+#: inc/options/options_appearance.php:982
+#: inc/options/options_appearance.php:1130
+#@ loc_canon
+msgid "Element moves in from this angle."
+msgstr ""
+
+#: inc/options/options_appearance.php:988
+#: inc/options/options_appearance.php:1067
+#@ loc_canon
+msgid "Move"
+msgstr ""
+
+#: inc/options/options_appearance.php:990
+#: inc/options/options_appearance.php:1138
+#@ loc_canon
+msgid "How much the element will move (in pixels). Can be 0 if you do not want the element to move at all."
+msgstr ""
+
+#: inc/options/options_appearance.php:998
+#@ loc_canon
+msgid "How long the fade-in animation lasts (in seconds)."
+msgstr ""
+
+#: inc/options/options_appearance.php:1004
+#: inc/options/options_appearance.php:1091
+#@ loc_canon
+msgid "Viewport factor"
+msgstr ""
+
+#: inc/options/options_appearance.php:1006
+#@ loc_canon
+msgid "How big a part of the element that must enter the viewport for the fade-in animation to trigger. 0 will trigger fade-in animation right when element enters viewport. 1 will require the whole element to enter viewport before triggering fade-in."
+msgstr ""
+
+#: inc/options/options_appearance.php:1020
+#@ loc_canon
+msgid "Use on pagebuilder blocks"
+msgstr ""
+
+#: inc/options/options_appearance.php:1027
+#@ loc_canon
+msgid "Use on blog/archive posts"
+msgstr ""
+
+#: inc/options/options_appearance.php:1034
+#@ loc_canon
+msgid "Use on widgets"
+msgstr ""
+
+#: inc/options/options_appearance.php:1056
+#: inc/options/options_appearance.php:1184
+#@ loc_canon
+msgid "Top"
+msgstr ""
+
+#: inc/options/options_appearance.php:1057
+#: inc/options/options_appearance.php:1185
+#: inc/options/options_frame.php:790
+#@ loc_canon
+msgid "Right"
+msgstr ""
+
+#: inc/options/options_appearance.php:1058
+#: inc/options/options_appearance.php:1186
+#@ loc_canon
+msgid "Bottom"
+msgstr ""
+
+#: inc/options/options_appearance.php:1059
+#: inc/options/options_appearance.php:1187
+#: inc/options/options_frame.php:789
+#@ loc_canon
+msgid "Left"
+msgstr ""
+
+#: inc/options/options_appearance.php:1112
+#@ loc_canon
+msgid "Animation: Menus"
+msgstr ""
+
+#: inc/options/options_appearance.php:1120
+#: inc/options/options_appearance.php:1168
+#@ loc_canon
+msgid "Animate menus"
+msgstr ""
+
+#: inc/options/options_appearance.php:1122
+#@ loc_canon
+msgid "Select which menus to animate - or turn off menu animation altogether."
+msgstr ""
+
+#: inc/options/options_appearance.php:1136
+#: inc/options/options_appearance.php:1194
+#@ loc_canon
+msgid "Move distance"
+msgstr ""
+
+#: inc/options/options_appearance.php:1146
+#@ loc_canon
+msgid "Duration of the menu animation."
+msgstr ""
+
+#: inc/options/options_appearance.php:1152
+#: inc/options/options_appearance.php:1218
+#@ loc_canon
+msgid "Delay between elements"
+msgstr ""
+
+#: inc/options/options_appearance.php:1154
+#@ loc_canon
+msgid "Delay in milliseconds between each menu item starts to appear."
+msgstr ""
+
+#: inc/options/options_appearance.php:1171
+#: inc/options/options_frame.php:157
+#: inc/options/options_frame.php:175
+#: inc/options/options_frame.php:194
+#: inc/options/options_frame.php:209
+#: inc/options/options_frame.php:232
+#: inc/options/options_frame.php:250
+#: inc/options/options_frame.php:271
+#: inc/options/options_frame.php:288
+#: inc/options/options_frame.php:312
+#: inc/options/options_frame.php:329
+#: inc/options/options_frame.php:348
+#: inc/options/options_frame.php:363
+#: inc/options/options_post.php:84
+#@ loc_canon
+msgid "Off"
+msgstr ""
+
+#: inc/options/options_appearance.php:1172
+#@ loc_canon
+msgid "Primary menu"
+msgstr ""
+
+#: inc/options/options_appearance.php:1173
+#: inc/options/options_frame.php:129
+#@ loc_canon
+msgid "Secondary menu"
+msgstr ""
+
+#: inc/options/options_appearance.php:1174
+#@ loc_canon
+msgid "Primary + Secondary menu"
+msgstr ""
+
+#: inc/options/options_frame.php:5
+#@ loc_canon
+msgid "Header & Footer"
+msgstr ""
+
+#: inc/options/options_frame.php:34
+#@ loc_canon
+msgid "Header: General Settings"
+msgstr ""
+
+#: inc/options/options_frame.php:41
+#@ loc_canon
+msgid "Sticky headers"
+msgstr ""
+
+#: inc/options/options_frame.php:43
+#@ loc_canon
+msgid "Make the headers stick to the top of the page when scrolling down."
+msgstr ""
+
+#: inc/options/options_frame.php:49
+#: inc/options/options_frame.php:88
+#@ loc_canon
+msgid "Stickyness in responsive mode"
+msgstr ""
+
+#: inc/options/options_frame.php:51
+#@ loc_canon
+msgid "Turn off stickyness in responsive mode. Choose the viewport size under which stickyness will be disabled. The optimal setting depends on your content. If you have many sticky elements or tall sticky elements you might want to turn off stickyness at a higher viewport size to avoid the sticky elements taking up the whole viewport."
+msgstr ""
+
+#: inc/options/options_frame.php:67
+#@ loc_canon
+msgid "Sticky pre-header"
+msgstr ""
+
+#: inc/options/options_frame.php:74
+#@ loc_canon
+msgid "Sticky main header"
+msgstr ""
+
+#: inc/options/options_frame.php:81
+#@ loc_canon
+msgid "Sticky post-header"
+msgstr ""
+
+#: inc/options/options_frame.php:91
+#@ loc_canon
+msgid "Stickyness is always on"
+msgstr ""
+
+#: inc/options/options_frame.php:92
+#@ loc_canon
+msgid "Turn off @ viewport width below 768px"
+msgstr ""
+
+#: inc/options/options_frame.php:93
+#@ loc_canon
+msgid "Turn off @ viewport width below 600px"
+msgstr ""
+
+#: inc/options/options_frame.php:94
+#@ loc_canon
+msgid "Turn off @ viewport width below 480px"
+msgstr ""
+
+#: inc/options/options_frame.php:109
+#@ loc_canon
+msgid "Header Builder"
+msgstr ""
+
+#: inc/options/options_frame.php:117
+#@ loc_canon
+msgid "Header builder"
+msgstr ""
+
+#: inc/options/options_frame.php:119
+#@ loc_canon
+msgid "Build your own header. Select elements for each header section using the selects. Settings for each element can be found below."
+msgstr ""
+
+#: inc/options/options_frame.php:120
+#@ loc_canon
+msgid "Notice that some elements are only available for certain spots e.g. logo which can only be placed in the main header etc."
+msgstr ""
+
+#: inc/options/options_frame.php:126
+#@ loc_canon
+msgid "Available elements"
+msgstr ""
+
+#: inc/options/options_frame.php:128
+#@ loc_canon
+msgid "Primary menu."
+msgstr ""
+
+#: inc/options/options_frame.php:130
+#: inc/options/options_frame.php:251
+#: inc/options/options_frame.php:272
+#: inc/options/options_frame.php:289
+#: inc/options/options_frame.php:504
+#@ loc_canon
+msgid "Logo"
+msgstr ""
+
+#: inc/options/options_frame.php:131
+#@ loc_canon
+msgid "Header image."
+msgstr ""
+
+#: inc/options/options_frame.php:132
+#@ loc_canon
+msgid "Social icons"
+msgstr ""
+
+#: inc/options/options_frame.php:133
+#: inc/options/options_frame.php:179
+#: inc/options/options_frame.php:198
+#: inc/options/options_frame.php:213
+#: inc/options/options_frame.php:255
+#: inc/options/options_frame.php:276
+#: inc/options/options_frame.php:293
+#: inc/options/options_frame.php:333
+#: inc/options/options_frame.php:352
+#: inc/options/options_frame.php:367
+#@ loc_canon
+msgid "Text"
+msgstr ""
+
+#: inc/options/options_frame.php:134
+#@ loc_canon
+msgid "Toolbar (search button)"
+msgstr ""
+
+#: inc/options/options_frame.php:135
+#@ loc_canon
+msgid "Ad banner"
+msgstr ""
+
+#: inc/options/options_frame.php:153
+#@ loc_canon
+msgid "Pre-header"
+msgstr ""
+
+#: inc/options/options_frame.php:158
+#: inc/options/options_frame.php:233
+#: inc/options/options_frame.php:313
+#@ loc_canon
+msgid "Custom Center"
+msgstr ""
+
+#: inc/options/options_frame.php:159
+#: inc/options/options_frame.php:234
+#: inc/options/options_frame.php:314
+#@ loc_canon
+msgid "Custom Left + Right"
+msgstr ""
+
+#: inc/options/options_frame.php:160
+#: inc/options/options_frame.php:235
+#@ loc_canon
+msgid "Image header"
+msgstr ""
+
+#: inc/options/options_frame.php:176
+#: inc/options/options_frame.php:195
+#: inc/options/options_frame.php:210
+#: inc/options/options_frame.php:252
+#: inc/options/options_frame.php:273
+#: inc/options/options_frame.php:290
+#: inc/options/options_frame.php:330
+#: inc/options/options_frame.php:349
+#: inc/options/options_frame.php:364
+#@ loc_canon
+msgid "Primary Menu"
+msgstr ""
+
+#: inc/options/options_frame.php:177
+#: inc/options/options_frame.php:196
+#: inc/options/options_frame.php:211
+#: inc/options/options_frame.php:253
+#: inc/options/options_frame.php:274
+#: inc/options/options_frame.php:291
+#: inc/options/options_frame.php:331
+#: inc/options/options_frame.php:350
+#: inc/options/options_frame.php:365
+#@ loc_canon
+msgid "Secondary Menu"
+msgstr ""
+
+#: inc/options/options_frame.php:178
+#: inc/options/options_frame.php:197
+#: inc/options/options_frame.php:212
+#: inc/options/options_frame.php:254
+#: inc/options/options_frame.php:275
+#: inc/options/options_frame.php:292
+#: inc/options/options_frame.php:332
+#: inc/options/options_frame.php:351
+#: inc/options/options_frame.php:366
+#@ loc_canon
+msgid "Social Icons"
+msgstr ""
+
+#: inc/options/options_frame.php:180
+#: inc/options/options_frame.php:199
+#: inc/options/options_frame.php:214
+#: inc/options/options_frame.php:256
+#: inc/options/options_frame.php:277
+#: inc/options/options_frame.php:294
+#: inc/options/options_frame.php:334
+#: inc/options/options_frame.php:353
+#: inc/options/options_frame.php:368
+#: inc/options/options_frame.php:1003
+#: inc/options/options_frame.php:1010
+#@ loc_canon
+msgid "Toolbar"
+msgstr ""
+
+#: inc/options/options_frame.php:228
+#@ loc_canon
+msgid "Main header"
+msgstr ""
+
+#: inc/options/options_frame.php:257
+#: inc/options/options_frame.php:278
+#: inc/options/options_frame.php:295
+#: inc/options/options_frame.php:818
+#@ loc_canon
+msgid "Ad Banner"
+msgstr ""
+
+#: inc/options/options_frame.php:308
+#@ loc_canon
+msgid "Post-header"
+msgstr ""
+
+#: inc/options/options_frame.php:384
+#@ loc_canon
+msgid "Main Header Adjustments"
+msgstr ""
+
+#: inc/options/options_frame.php:391
+#@ loc_canon
+msgid "Padding top & Padding bottom"
+msgstr ""
+
+#: inc/options/options_frame.php:393
+#@ loc_canon
+msgid "Used to position your header elements."
+msgstr ""
+
+#: inc/options/options_frame.php:394
+#@ loc_canon
+msgid "Increase padding top to create space above the header elements."
+msgstr ""
+
+#: inc/options/options_frame.php:395
+#@ loc_canon
+msgid "Increase padding bottom to create space below the header elements."
+msgstr ""
+
+#: inc/options/options_frame.php:401
+#: inc/options/options_frame.php:449
+#@ loc_canon
+msgid "Adjust left element relative position"
+msgstr ""
+
+#: inc/options/options_frame.php:403
+#@ loc_canon
+msgid "You can fine adjust the left element position. Values are pixels from top-left."
+msgstr ""
+
+#: inc/options/options_frame.php:409
+#: inc/options/options_frame.php:473
+#@ loc_canon
+msgid "Adjust right element relative position"
+msgstr ""
+
+#: inc/options/options_frame.php:411
+#@ loc_canon
+msgid "You can fine adjust the right element position. Values are pixels from top-right."
+msgstr ""
+
+#: inc/options/options_frame.php:425
+#@ loc_canon
+msgid "Header padding top"
+msgstr ""
+
+#: inc/options/options_frame.php:436
+#@ loc_canon
+msgid "Header padding bottom"
+msgstr ""
+
+#: inc/options/options_frame.php:511
+#: inc/options/options_frame.php:865
+#@ loc_canon
+msgid "General logo hierarchy"
+msgstr ""
+
+#: inc/options/options_frame.php:513
+#@ loc_canon
+msgid "by default the theme logo will be displayed"
+msgstr ""
+
+#: inc/options/options_frame.php:514
+#@ loc_canon
+msgid "if you enter a logo image URL this image will be displayed instead of the theme logo."
+msgstr ""
+
+#: inc/options/options_frame.php:515
+#@ loc_canon
+msgid "if you enter text as logo this text will be displayed instead of any custom logo image and instead of the theme logo."
+msgstr ""
+
+#: inc/options/options_frame.php:521
+#: inc/options/options_frame.php:597
+#@ loc_canon
+msgid "Logo URL"
+msgstr ""
+
+#: inc/options/options_frame.php:524
+#@ loc_canon
+msgid "Click the \"Upload\" button, upload an image and make sure you click the \"Use as logo\" button or"
+msgstr ""
+
+#: inc/options/options_frame.php:525
+#@ loc_canon
+msgid "Click the \"Upload\" button and choose an image from the media library tab. Make sure you click the \"Use as logo\" button."
+msgstr ""
+
+#: inc/options/options_frame.php:526
+#@ loc_canon
+msgid "If you leave the URL text field empty the default logo will be displayed."
+msgstr ""
+
+#: inc/options/options_frame.php:533
+#: inc/options/options_frame.php:605
+#@ loc_canon
+msgid "Use text as logo"
+msgstr ""
+
+#: inc/options/options_frame.php:535
+#@ loc_canon
+msgid "This text will be displayed instead of any logo image. You can select font for logo text by going to Appearance > Google Webfonts > Logo text."
+msgstr ""
+
+#: inc/options/options_frame.php:541
+#: inc/options/options_frame.php:612
+#@ loc_canon
+msgid "Text as logo size"
+msgstr ""
+
+#: inc/options/options_frame.php:543
+#@ loc_canon
+msgid "If using text as logo this option lets you set a font size."
+msgstr ""
+
+#: inc/options/options_frame.php:549
+#: inc/options/options_frame.php:624
+#@ loc_canon
+msgid "Logo max width"
+msgstr ""
+
+#: inc/options/options_frame.php:551
+#@ loc_canon
+msgid "You can control the size of your logo by setting the maximum allowed width of your logo image."
+msgstr ""
+
+#: inc/options/options_frame.php:552
+#@ loc_canon
+msgid "To make your logo HD-ready/retina-ready you should set the logo max width to half the original width of your image (compression ratio: 2)"
+msgstr ""
+
+#: inc/options/options_frame.php:569
+#@ loc_canon
+msgid "Logo Preview"
+msgstr ""
+
+#: inc/options/options_frame.php:587
+#@ loc_canon
+msgid "Original size: Width: "
+msgstr ""
+
+#: inc/options/options_frame.php:587
+#@ loc_canon
+msgid "pixels, height: "
+msgstr ""
+
+#: inc/options/options_frame.php:587
+#@ loc_canon
+msgid " pixels"
+msgstr ""
+
+#: inc/options/options_frame.php:588
+#@ loc_canon
+msgid "Resized to max width: "
+msgstr ""
+
+#: inc/options/options_frame.php:588
+#@ loc_canon
+msgid "pixels. Compression ratio: "
+msgstr ""
+
+#: inc/options/options_frame.php:644
+#@ loc_canon
+msgid "Header Image"
+msgstr ""
+
+#: inc/options/options_frame.php:651
+#: inc/options/options_frame.php:724
+#@ loc_canon
+msgid "Show only on homepage"
+msgstr ""
+
+#: inc/options/options_frame.php:653
+#@ loc_canon
+msgid "The header image will only be displayed on the homepage."
+msgstr ""
+
+#: inc/options/options_frame.php:659
+#: inc/options/options_frame.php:731
+#@ loc_canon
+msgid "Image URL"
+msgstr ""
+
+#: inc/options/options_frame.php:661
+#@ loc_canon
+msgid "Insert URL to use as header image or click Select Image button to choose from media library."
+msgstr ""
+
+#: inc/options/options_frame.php:667
+#: inc/options/options_frame.php:739
+#@ loc_canon
+msgid "Background color"
+msgstr ""
+
+#: inc/options/options_frame.php:669
+#@ loc_canon
+msgid "Set header image background color. Useful when using transparent image files."
+msgstr ""
+
+#: inc/options/options_frame.php:675
+#: inc/options/options_frame.php:746
+#@ loc_canon
+msgid "Header height"
+msgstr ""
+
+#: inc/options/options_frame.php:677
+#@ loc_canon
+msgid "Set header image height"
+msgstr ""
+
+#: inc/options/options_frame.php:683
+#: inc/options/options_frame.php:758
+#@ loc_canon
+msgid "Use Parallax Scrolling"
+msgstr ""
+
+#: inc/options/options_frame.php:685
+#@ loc_canon
+msgid "Enable parallax scrolling."
+msgstr ""
+
+#: inc/options/options_frame.php:691
+#: inc/options/options_frame.php:765
+#@ loc_canon
+msgid "Parallax ratio"
+msgstr ""
+
+#: inc/options/options_frame.php:693
+#@ loc_canon
+msgid "Number usually between 0 and 1 (but can be up to 2). 1 is no parallax scroll. 0 is max parallax scroll (image does not move when window is scrolling). Above 1 and image will scroll more than window."
+msgstr ""
+
+#: inc/options/options_frame.php:699
+#: inc/options/options_frame.php:777
+#@ loc_canon
+msgid "Image text"
+msgstr ""
+
+#: inc/options/options_frame.php:701
+#@ loc_canon
+msgid "Text to display over header image."
+msgstr ""
+
+#: inc/options/options_frame.php:707
+#: inc/options/options_frame.php:797
+#@ loc_canon
+msgid "Image text top margin"
+msgstr ""
+
+#: inc/options/options_frame.php:709
+#@ loc_canon
+msgid "Increase number to position text further down."
+msgstr ""
+
+#: inc/options/options_frame.php:733
+#@ loc_canon
+msgid "Select Image"
+msgstr ""
+
+#: inc/options/options_frame.php:785
+#@ loc_canon
+msgid "Image text alignment"
+msgstr ""
+
+#: inc/options/options_frame.php:788
+#@ loc_canon
+msgid "Center"
+msgstr ""
+
+#: inc/options/options_frame.php:825
+#@ loc_canon
+msgid "Ad Code"
+msgstr ""
+
+#: inc/options/options_frame.php:827
+#@ loc_canon
+msgid "Insert your ad code or ad HTML here. If you are unsure what code to use you should consult your ad provider."
+msgstr ""
+
+#: inc/options/options_frame.php:842
+#@ loc_canon
+msgid "Ad code"
+msgstr ""
+
+#: inc/options/options_frame.php:858
+#@ loc_canon
+msgid "Header Text"
+msgstr ""
+
+#: inc/options/options_frame.php:867
+#@ loc_canon
+msgid "Text to display in header. Can contain HTML."
+msgstr ""
+
+#: inc/options/options_frame.php:882
+#@ loc_canon
+msgid "Header text"
+msgstr ""
+
+#: inc/options/options_frame.php:897
+#@ loc_canon
+msgid "Social Links"
+msgstr ""
+
+#: inc/options/options_frame.php:904
+#: inc/options/options_frame.php:931
+#@ loc_canon
+msgid "Show social icons"
+msgstr ""
+
+#: inc/options/options_frame.php:906
+#@ loc_canon
+msgid "If checked your social icons will be displayed at the bottom right area of the footer."
+msgstr ""
+
+#: inc/options/options_frame.php:912
+#@ loc_canon
+msgid "Social links"
+msgstr ""
+
+#: inc/options/options_frame.php:914
+#@ loc_canon
+msgid "Choose an icon in the select and attach this to a social link."
+msgstr ""
+
+#: inc/options/options_frame.php:915
+#@ loc_canon
+msgid "Make sure you put the whole URL to your social site in the text input."
+msgstr ""
+
+#: inc/options/options_frame.php:916
+#@ loc_canon
+msgid "You can add a new social link to the end of the list by clicking \"Add social link"
+msgstr ""
+
+#: inc/options/options_frame.php:917
+#@ loc_canon
+msgid "You can remove the last social link in your list by clicking \"Remove social link\"."
+msgstr ""
+
+#: inc/options/options_frame.php:918
+#@ loc_canon
+msgid "You can see a full list of the Font Awesome icons <a href=\"http://fortawesome.github.io/Font-Awesome/cheatsheet/\" target=\"_blank\">here</a>."
+msgstr ""
+
+#: inc/options/options_frame.php:938
+#@ loc_canon
+msgid "Open links in new window"
+msgstr ""
+
+#: inc/options/options_frame.php:954
+#@ loc_canon
+msgid "Social link"
+msgstr ""
+
+#: inc/options/options_frame.php:989
+#@ loc_canon
+msgid "Add social link"
+msgstr ""
+
+#: inc/options/options_frame.php:990
+#@ loc_canon
+msgid "Remove social link"
+msgstr ""
+
+#: inc/options/options_frame.php:1012
+#@ loc_canon
+msgid "Select what tools to add to the toolbar."
+msgstr ""
+
+#: inc/options/options_frame.php:1027
+#@ loc_canon
+msgid "Search button"
+msgstr ""
+
+#: inc/options/options_frame.php:1043
+#@ loc_canon
+msgid "Footer"
+msgstr ""
+
+#: inc/options/options_frame.php:1050
+#: inc/options/options_frame.php:1081
+#@ loc_canon
+msgid "Show widgetized footer"
+msgstr ""
+
+#: inc/options/options_frame.php:1052
+#@ loc_canon
+msgid "Footer containing four widgetized areas. Go to <i>Appearance > Widgets</i> to add widgets."
+msgstr ""
+
+#: inc/options/options_frame.php:1058
+#: inc/options/options_frame.php:1088
+#@ loc_canon
+msgid "Show social footer"
+msgstr ""
+
+#: inc/options/options_frame.php:1060
+#@ loc_canon
+msgid "Footer containing footer text and social icons."
+msgstr ""
+
+#: inc/options/options_frame.php:1066
+#: inc/options/options_frame.php:1095
+#@ loc_canon
+msgid "Footer text"
+msgstr ""
+
+#: inc/options/options_frame.php:1068
+#@ loc_canon
+msgid "Text to be displayed in the left side of the social footer area."
+msgstr ""
+
+#: inc/options/options_general.php:5
+#: inc/options/options_general.php:38
+#: inc/options/template_options.php:5
+#@ loc_canon
+msgid "General"
+msgstr ""
+
+#: inc/options/options_general.php:45
+#: inc/options/options_general.php:100
+#@ loc_canon
+msgid "Use responsive design"
+msgstr ""
+
+#: inc/options/options_general.php:47
+#@ loc_canon
+msgid "Responsive design changes the way your site looks depending on the browser size. This is done to optimize the viewing experience on different devices."
+msgstr ""
+
+#: inc/options/options_general.php:48
+#@ loc_canon
+msgid "Turning off responsive design will make the site look the same across all devices and browser sizes."
+msgstr ""
+
+#: inc/options/options_general.php:54
+#: inc/options/options_general.php:107
+#@ loc_canon
+msgid "Use boxed design"
+msgstr ""
+
+#: inc/options/options_general.php:56
+#@ loc_canon
+msgid "Use boxed design for site layout. Otherwise site will display in full width layout."
+msgstr ""
+
+#: inc/options/options_general.php:62
+#: inc/options/options_general.php:114
+#@ loc_canon
+msgid "Construction mode"
+msgstr ""
+
+#: inc/options/options_general.php:64
+#@ loc_canon
+msgid "Activating construction mode will mean that only logged in users can see the content of your site. Only exception are pages using the placeholder template which can still be seen by all."
+msgstr ""
+
+#: inc/options/options_general.php:65
+#@ loc_canon
+msgid "We suggest that if you use this function you also use a placeholder page as a \"static homepage\" to let people know that your site is under construction."
+msgstr ""
+
+#: inc/options/options_general.php:71
+#: inc/options/options_general.php:122
+#@ loc_canon
+msgid "Construction mode message"
+msgstr ""
+
+#: inc/options/options_general.php:73
+#@ loc_canon
+msgid "The message that will be displayed to visitors when in construction mode."
+msgstr ""
+
+#: inc/options/options_general.php:74
+#@ loc_canon
+msgid "Remember that you can set up a placeholder page (using the placeholder page-template) and use as a homepage as this page type will always display even when construction mode is active."
+msgstr ""
+
+#: inc/options/options_general.php:80
+#: inc/options/options_general.php:130
+#@ loc_canon
+msgid "Favicon URL"
+msgstr ""
+
+#: inc/options/options_general.php:83
+#@ loc_canon
+msgid "Click the \"Upload\" button, upload an image and make sure you click the \"Use as favicon\" button or"
+msgstr ""
+
+#: inc/options/options_general.php:84
+#@ loc_canon
+msgid "Click the \"Upload\" button and choose an image from the media library tab. Make sure you click the \"Use as favicon\" button."
+msgstr ""
+
+#: inc/options/options_general.php:85
+#@ loc_canon
+msgid "If you leave the URL text field empty the default favicon will be displayed."
+msgstr ""
+
+#: inc/options/options_general.php:115
+#@ loc_canon
+msgid "<i>(Warning: only logged-in users will be able to see your site pages.)</i>"
+msgstr ""
+
+#: inc/options/options_general.php:140
+#@ loc_canon
+msgid "Developer mode"
+msgstr ""
+
+#: inc/options/options_general.php:161
+#@ loc_canon
+msgid "Main Search Autocomplete"
+msgstr ""
+
+#: inc/options/options_general.php:168
+#@ loc_canon
+msgid "Search words"
+msgstr ""
+
+#: inc/options/options_general.php:170
+#@ loc_canon
+msgid "When typing a search term in the main search box the autocomplete function will make search suggestions."
+msgstr ""
+
+#: inc/options/options_general.php:171
+#@ loc_canon
+msgid "Enter words or phrases to give as search suggestions. Separate terms with a comma."
+msgstr ""
+
+#: inc/options/options_general.php:185
+#@ loc_canon
+msgid "Suggest these words"
+msgstr ""
+
+#: inc/options/options_general.php:201
+#: inc/options/options_general.php:208
+#@ loc_canon
+msgid "Google Analytics"
+msgstr ""
+
+#: inc/options/options_general.php:210
+#@ loc_canon
+msgid "Enter your <a href=\"http://www.google.com/analytics/\" target=\"_blank\">Google Analytics</a> code here."
+msgstr ""
+
+#: inc/options/options_general.php:211
+#@ loc_canon
+msgid "NB: If you have any Google Analytics plugins installed make sure you only add you Google Analytics code in one place (either here or in the plugin) or you will get a duplicate code error."
+msgstr ""
+
+#: inc/options/options_general.php:225
+#@ loc_canon
+msgid "Google Analytics Code"
+msgstr ""
+
+#: inc/options/options_general.php:242
+#@ loc_canon
+msgid "Compatibility"
+msgstr ""
+
+#: inc/options/options_general.php:249
+#: inc/options/options_general.php:274
+#@ loc_canon
+msgid "Suppress theme meta description"
+msgstr ""
+
+#: inc/options/options_general.php:251
+#@ loc_canon
+msgid "If using a 3rd party SEO plugin the theme meta description can sometimes interfere with the plugin meta description."
+msgstr ""
+
+#: inc/options/options_general.php:252
+#@ loc_canon
+msgid "Use this option to suppress the theme meta description and use the plugin meta description instead."
+msgstr ""
+
+#: inc/options/options_general.php:258
+#: inc/options/options_general.php:281
+#@ loc_canon
+msgid "Chrome/Safari @font-face fix"
+msgstr ""
+
+#: inc/options/options_general.php:260
+#@ loc_canon
+msgid "On some server configurations a known bug in Chrome and Safari can prevent the rendering of serverside @font-face fonts leaving a page blank except for images and other non-text media. If your site experiences this bug make sure you turn on the Chrome/Safari @font-face fix."
+msgstr ""
+
+#: inc/options/options_help.php:5
+#@ loc_canon
+msgid "Help Center"
+msgstr ""
+
+#: inc/options/options_help.php:15
+#@ loc_canon
+msgid "Theme documentation"
+msgstr ""
+
+#: inc/options/options_help.php:19
+#@ loc_canon
+msgid "Tutorial Videos"
+msgstr ""
+
+#: inc/options/options_post.php:5
+#@ loc_canon
+msgid "Posts & Pages"
+msgstr ""
+
+#: inc/options/options_post.php:37
+#@ loc_canon
+msgid "Single Post"
+msgstr ""
+
+#: inc/options/options_post.php:44
+#: inc/options/options_post.php:79
+#@ loc_canon
+msgid "Post slider"
+msgstr ""
+
+#: inc/options/options_post.php:46
+#@ loc_canon
+msgid "Controls the default behaviour of the post slider."
+msgstr ""
+
+#: inc/options/options_post.php:47
+#@ loc_canon
+msgid "<i>Automatic</i>: Images attached to a post will automatically be included in the post slider. You can select images to hide from the post slider."
+msgstr ""
+
+#: inc/options/options_post.php:48
+#@ loc_canon
+msgid "<i>Manual</i>: You manually have to select the images to include in the post slider."
+msgstr ""
+
+#: inc/options/options_post.php:49
+#@ loc_canon
+msgid "<i>Off</i>: Turns the post slider off. Only the featured image will be displayed."
+msgstr ""
+
+#: inc/options/options_post.php:55
+#: inc/options/options_post.php:91
+#: inc/options/options_post.php:136
+#: inc/options/options_post.php:166
+#@ loc_canon
+msgid "Show post navigation"
+msgstr ""
+
+#: inc/options/options_post.php:57
+#@ loc_canon
+msgid "Adds post navigation to posts. Use this to navigate between previous and next post relative to the current post."
+msgstr ""
+
+#: inc/options/options_post.php:63
+#: inc/options/options_post.php:98
+#@ loc_canon
+msgid "Show comments"
+msgstr ""
+
+#: inc/options/options_post.php:65
+#@ loc_canon
+msgid "Displays comments and comment reply form."
+msgstr ""
+
+#: inc/options/options_post.php:82
+#@ loc_canon
+msgid "Automatic"
+msgstr ""
+
+#: inc/options/options_post.php:83
+#@ loc_canon
+msgid "Manual"
+msgstr ""
+
+#: inc/options/options_post.php:113
+#@ loc_canon
+msgid "Single Person Post"
+msgstr ""
+
+#: inc/options/options_post.php:120
+#: inc/options/options_post.php:152
+#@ loc_canon
+msgid "Show title/position"
+msgstr ""
+
+#: inc/options/options_post.php:122
+#@ loc_canon
+msgid "Show title/position meta info on single person page."
+msgstr ""
+
+#: inc/options/options_post.php:128
+#: inc/options/options_post.php:159
+#@ loc_canon
+msgid "Show tagline"
+msgstr ""
+
+#: inc/options/options_post.php:130
+#@ loc_canon
+msgid "Show tagline meta info on single person page."
+msgstr ""
+
+#: inc/options/options_post.php:138
+#@ loc_canon
+msgid "Show post navigation on single person page."
+msgstr ""
+
+#: inc/options/options_post.php:181
+#@ loc_canon
+msgid "Meta info"
+msgstr ""
+
+#: inc/options/options_post.php:188
+#@ loc_canon
+msgid "Show meta info"
+msgstr ""
+
+#: inc/options/options_post.php:190
+#@ loc_canon
+msgid "Choose what meta info to display in posts and blog."
+msgstr ""
+
+#: inc/options/options_post.php:204
+#@ loc_canon
+msgid "Show meta info: author"
+msgstr ""
+
+#: inc/options/options_post.php:211
+#@ loc_canon
+msgid "Show meta info: publish date"
+msgstr ""
+
+#: inc/options/options_post.php:218
+#@ loc_canon
+msgid "Show meta info: comments count"
+msgstr ""
+
+#: inc/options/options_post.php:225
+#@ loc_canon
+msgid "Show meta info: tags"
+msgstr ""
+
+#: inc/options/options_post.php:240
+#@ loc_canon
+msgid "Blog styled pages"
+msgstr ""
+
+#: inc/options/options_post.php:247
+#@ loc_canon
+msgid "Homepage blog style"
+msgstr ""
+
+#: inc/options/options_post.php:249
+#@ loc_canon
+msgid "Blog is displayed as default homepage right when installing the theme. You can set the style here."
+msgstr ""
+
+#: inc/options/options_post.php:255
+#: inc/options/options_post.php:316
+#@ loc_canon
+msgid "Default blog style (page)"
+msgstr ""
+
+#: inc/options/options_post.php:263
+#@ loc_canon
+msgid "Category pages style"
+msgstr ""
+
+#: inc/options/options_post.php:265
+#@ loc_canon
+msgid "Category pages also use a blog layout to display posts. Choose which style to use."
+msgstr ""
+
+#: inc/options/options_post.php:271
+#: inc/options/options_post.php:338
+#@ loc_canon
+msgid "Show category title"
+msgstr ""
+
+#: inc/options/options_post.php:273
+#@ loc_canon
+msgid "Choose to display the category title at the top of category pages."
+msgstr ""
+
+#: inc/options/options_post.php:279
+#: inc/options/options_post.php:345
+#@ loc_canon
+msgid "Show category description"
+msgstr ""
+
+#: inc/options/options_post.php:281
+#@ loc_canon
+msgid "Choose to display the category description at the top of category pages."
+msgstr ""
+
+#: inc/options/options_post.php:282
+#@ loc_canon
+msgid "You can set the category description at <i>Posts > Categories > Your category > Description</i>."
+msgstr ""
+
+#: inc/options/options_post.php:288
+#@ loc_canon
+msgid "Category pages"
+msgstr ""
+
+#: inc/options/options_post.php:290
+#@ loc_canon
+msgid "Category pages will display posts within a certain category."
+msgstr ""
+
+#: inc/options/options_post.php:291
+#@ loc_canon
+msgid "To add a category page to your site go to <i>Appearance > Menus > Categories</i>. Select a category and click the Add to Menu button. Drag and drop the new menu item to the desired location in the menu."
+msgstr ""
+
+#: inc/options/options_post.php:305
+#@ loc_canon
+msgid "Homepage Blog Style"
+msgstr ""
+
+#: inc/options/options_post.php:308
+#: inc/options/options_post.php:319
+#: inc/options/options_post.php:330
+#@ loc_canon
+msgid "Full width"
+msgstr ""
+
+#: inc/options/options_post.php:309
+#: inc/options/options_post.php:320
+#: inc/options/options_post.php:331
+#@ loc_canon
+msgid "With sidebar"
+msgstr ""
+
+#: inc/options/options_post.php:327
+#@ loc_canon
+msgid "Category Pages Style"
+msgstr ""
+
+#: inc/options/options_post.php:360
+#: searchform.php:5
+#@ loc_canon
+msgid "Search"
+msgstr ""
+
+#: inc/options/options_post.php:367
+#: inc/options/options_post.php:383
+#@ loc_canon
+msgid "Search box text"
+msgstr ""
+
+#: inc/options/options_post.php:369
+#@ loc_canon
+msgid "The text that displays inside the search box."
+msgstr ""
+
+#: inc/options/options_post.php:406
+#: inc/options/options_post.php:429
+#@ loc_canon
+msgid "404 title"
+msgstr ""
+
+#: inc/options/options_post.php:408
+#@ loc_canon
+msgid "Title that displays on the 404-page."
+msgstr ""
+
+#: inc/options/options_post.php:414
+#: inc/options/options_post.php:437
+#@ loc_canon
+msgid "404 message"
+msgstr ""
+
+#: inc/options/options_post.php:416
+#@ loc_canon
+msgid "Message to display on the 404-page."
+msgstr ""
+
+#: inc/options/options_post.php:467
+#: inc/options/options_post.php:499
+#@ loc_canon
+msgid "Sidebar on shop and product pages"
+msgstr ""
+
+#: inc/options/options_post.php:469
+#@ loc_canon
+msgid "Choose to have a sidebar displayed on your shop and product pages."
+msgstr ""
+
+#: inc/options/options_post.php:475
+#@ loc_canon
+msgid "What about the other WooCommerce pages?"
+msgstr ""
+
+#: inc/options/options_post.php:477
+#@ loc_canon
+msgid "Other WooCommerce pages use ordinary page templates. You can change which template to use for each of the WooCommerce pages (sidebar or full width page templates)."
+msgstr ""
+
+#: inc/options/options_post.php:483
+#: inc/options/options_post.php:519
+#@ loc_canon
+msgid "Sidebar for WooCommerce pages"
+msgstr ""
+
+#: inc/options/options_post.php:485
+#@ loc_canon
+msgid "Choose which sidebar to use for your WooCommerce pages. This will be the same across all WooCommerce pages that have a sidebar."
+msgstr ""
+
+#: inc/options/options_post.php:561
+#: inc/options/options_post.php:585
+#@ loc_canon
+msgid "Sidebar on BuddyPress pages"
+msgstr ""
+
+#: inc/options/options_post.php:563
+#@ loc_canon
+msgid "Choose to have a sidebar displayed on your BuddyPress pages."
+msgstr ""
+
+#: inc/options/options_post.php:569
+#: inc/options/options_post.php:605
+#@ loc_canon
+msgid "Sidebar for BuddyPress pages"
+msgstr ""
+
+#: inc/options/options_post.php:571
+#@ loc_canon
+msgid "Choose which sidebar to use for your BuddyPress pages."
+msgstr ""
+
+#: inc/options/options_post.php:646
+#: inc/options/options_post.php:670
+#@ loc_canon
+msgid "Sidebar on bbPress pages"
+msgstr ""
+
+#: inc/options/options_post.php:648
+#@ loc_canon
+msgid "Choose to have a sidebar displayed on your bbPress pages."
+msgstr ""
+
+#: inc/options/options_post.php:654
+#: inc/options/options_post.php:690
+#@ loc_canon
+msgid "Sidebar for bbPress pages"
+msgstr ""
+
+#: inc/options/options_post.php:656
+#@ loc_canon
+msgid "Choose which sidebar to use for your bbPress pages."
+msgstr ""
+
+#: inc/options/options_post.php:732
+#: inc/options/options_post.php:756
+#@ loc_canon
+msgid "Sidebar on Events pages"
+msgstr ""
+
+#: inc/options/options_post.php:734
+#@ loc_canon
+msgid "Choose to have a sidebar displayed on your Events pages. Make sure you are using the Default Events Template (Events > Settings > Display > Events Template)."
+msgstr ""
+
+#: inc/options/options_post.php:740
+#: inc/options/options_post.php:776
+#@ loc_canon
+msgid "Sidebar for Events pages"
+msgstr ""
+
+#: inc/options/options_post.php:742
+#@ loc_canon
+msgid "Choose which sidebar to use for your Events pages."
+msgstr ""
+
+#: inc/options/options_post_control.php:81
+#@ loc_canon
+msgid "What are you looking for?"
+msgstr "Что вы ищете?"
+
+#: inc/options/options_post_control.php:82
+#@ loc_canon
+msgid "Page not found"
+msgstr ""
+
+#: inc/options/options_post_control.php:83
+#@ loc_canon
+msgid "Sorry, you're lost my friend, the page you're looking for does not exist anymore. Take your luck at searching for a new one."
+msgstr ""
+
+#: inc/templates/template_blog_loop.php:78
+#: inc/templates/template_blog_loop.php:200
+#: taxonomy-people_category.php:93
+#@ loc_canon
+msgid "Read More"
+msgstr ""
+
+#: inc/templates/template_post_pagination.php:7
+#@ loc_canon
+msgid "Prev"
+msgstr ""
+
+#: inc/templates/template_post_pagination.php:15
+#@ loc_canon
+msgid "Next"
+msgstr ""
+
+#: inc/templates/template_single_multi.php:92
+#@ loc_canon
+msgid "or use arrow keys to"
+msgstr ""
+
+#: inc/templates/template_single_multi.php:92
+#@ loc_canon
+msgid "navigate"
+msgstr ""
+
+#: inc/templates/template_widgetized_footer.php:30
+#@ loc_canon
+msgid "Footer Widget Areas"
+msgstr ""
+
+#: inc/templates/template_widgetized_footer.php:31
+#@ loc_canon
+msgid "Please login and add widgets to at least"
+msgstr ""
+
+#: inc/templates/template_widgetized_footer.php:31
+#@ loc_canon
+msgid "of the"
+msgstr ""
+
+#: inc/templates/template_widgetized_footer.php:31
+#@ loc_canon
+msgid "footer widget areas"
+msgstr ""
+
+#: page-galleries.php:154
+#: page-galleries.php:239
+#: page-galleries.php:334
+#@ loc_canon
+msgid "See More"
+msgstr ""
+
+#: page-gallery.php:185
+#@ loc_canon
+msgid "All categories"
+msgstr ""
+
+#: page-timeline.php:324
+#@ loc_canon
+msgid "Load More Posts"
+msgstr ""
+
+#: sidebar-404.php:6
+#@ loc_canon
+msgid "404 Sidebar Widget Area"
+msgstr ""
+
+#: sidebar-404.php:7
+#: sidebar-bbpress.php:9
+#: sidebar-buddypress.php:9
+#: sidebar-contact.php:7
+#: sidebar-events.php:9
+#: sidebar-page.php:17
+#: sidebar-search.php:7
+#: sidebar-woocommerce.php:9
+#: sidebar.php:7
+#@ loc_canon
+msgid "Please login and add some widgets to this widget area."
+msgstr ""
+
+#: sidebar-bbpress.php:8
+#: sidebar-buddypress.php:8
+#: sidebar-events.php:8
+#: sidebar-page.php:16
+#: sidebar-woocommerce.php:8
+#@ loc_canon
+msgid "No Widgets added."
+msgstr ""
+
+#: sidebar-contact.php:6
+#@ loc_canon
+msgid "Contact Sidebar Widget Area"
+msgstr ""
+
+#: sidebar-search.php:6
+#@ loc_canon
+msgid "Search Sidebar Widget Area"
+msgstr ""
+
+#: sidebar.php:6
+#@ loc_canon
+msgid "Blog / Category Sidebar Widget Area"
+msgstr ""
+
