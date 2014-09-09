@@ -168,13 +168,13 @@
                             <h1 class="four-fifths right last"><?php the_title(); ?></h1>
                             
                             <!-- META -->
-                            <aside class="left-aside left fifth">
+                            <aside class="left-aside right last two-fifth">
                                 <ul class="meta">
                                     <?php get_sidebar('search'); ?>
                                 </ul>	
                             </aside> 
 
-                            <div class="four-fifths right last">
+                            <div class="three-fifths left">
 
                                 <!-- FEATURED IMAGE -->
                                 <?php 
