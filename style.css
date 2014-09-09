@@ -1329,7 +1329,7 @@ aside ul li, ul.link-list li, ul.statistics li{
 .social-thumbs{
 	overflow: hidden;
 	height: 172px;
-	margin: 2em 0;
+	margin: 0 !important;
 }
 
 .social-thumbs li:before{
@@ -3936,4 +3936,7 @@ body.archive .mosaic-block {
     width: 195px !important;
     vertical-align: top;
     margin-top: -15px !important;
+}
+#pb_block-4 h2 {
+    margin: 10px 0 0 0 !important;
 }
