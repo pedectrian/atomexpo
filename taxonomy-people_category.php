@@ -90,7 +90,7 @@
                                     <?php echo do_shortcode($the_excerpt); ?>
 
                                     <!-- read more -->
-                                    <p><a href="<?php the_permalink(); ?>" class="btn"><?php _e('Read More', 'loc_canon'); ?></a></p>
+                                    <p><a href="<?php the_permalink(); ?>" class="btn"><?php _e('Читать далее', 'loc_canon'); ?></a></p>
 
                                 </div>
 
