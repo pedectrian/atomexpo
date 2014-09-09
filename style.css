@@ -3940,3 +3940,30 @@ body.archive .mosaic-block {
 #pb_block-4 h2 {
     margin: 10px 0 0 0 !important;
 }
+.order-now {
+    display: block;
+    margin: 10px auto;
+    color: #FFF;
+    font-size: 26px;
+    text-align: center;
+    width: 840px;
+}
+.order-now-description {
+    display: block;
+    margin: 20px auto;
+    color: #FFF;
+    font-size: 17px;
+    text-align: center;
+    width: 680px;
+}
+.order-now-button {
+    padding: 7px 20px;
+    background: #fff;
+    border-radius: 3px;
+    color: #333;
+    text-transform: uppercase;
+    width: 67px;
+    margin: 25px auto;
+    display: block;
+    font-size: 14px;
+}
