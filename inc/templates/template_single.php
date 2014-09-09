@@ -174,7 +174,7 @@
                                 </ul>	
                             </aside> 
 
-                            <div class="three-fourths right last">
+                            <div class="three-fourths left">
 
                                 <!-- FEATURED IMAGE -->
                                 <?php 
