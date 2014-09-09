@@ -3929,5 +3929,7 @@ body.archive .mosaic-block {
 }
 .isotope-item .entry-content {
     display: inline-block;
-    width: 195px;
+    width: 195px !important;
+    vertical-align: top;
+    margin-top: -15px !important;
 }

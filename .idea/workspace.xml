@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f37f1a3a-11dd-47ea-9d01-c3e12a47a331" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style.css" afterPath="$PROJECT_DIR$/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="atomexpo.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -47,7 +46,7 @@
       <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3931" column="17" selection-start="94821" selection-end="94821" vertical-scroll-proportion="0.9425287" vertical-offset="58227" max-vertical-offset="59070">
+            <state line="3933" column="33" selection-start="94891" selection-end="94891" vertical-scroll-proportion="0.96168584" vertical-offset="58242" max-vertical-offset="59100">
               <folding />
             </state>
           </provider>
@@ -342,7 +341,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3931" column="17" selection-start="94821" selection-end="94821" vertical-scroll-proportion="0.9425287" vertical-offset="58227" max-vertical-offset="59070">
+        <state line="3933" column="33" selection-start="94891" selection-end="94891" vertical-scroll-proportion="0.96168584" vertical-offset="58242" max-vertical-offset="59100">
           <folding />
         </state>
       </provider>
