@@ -3932,6 +3932,7 @@ body.archive .mosaic-block {
 }
 .isotope-item .entry-content {
     display: inline-block;
+    font-size: 13px !important;
     width: 195px !important;
     vertical-align: top;
     margin-top: -15px !important;
