@@ -262,7 +262,7 @@ SETUP THEME
 	LOCALIZATION INIT
 	***************************************/
 
-		$lang_dir = get_template_directory() . '/lang';    
+		$lang_dir = get_template_directory() . '/languages';
 		load_theme_textdomain('loc_canon', $lang_dir);
 
 
