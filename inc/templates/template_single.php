@@ -165,9 +165,9 @@
                         <!-- Start Post --> 
                         <div id="post-<?php the_ID(); ?>" <?php post_class("clearfix"); ?>>
 
-                            <h1 class="full right last"><?php the_title(); ?></h1>
+                            <h1 class="full"><?php the_title(); ?></h1>
 
-                            <div class="three-fourths left">
+                            <div class="full">
 
                                 <!-- FEATURED IMAGE -->
                                 <?php 
