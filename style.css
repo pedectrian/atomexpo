@@ -3923,3 +3923,11 @@ body.archive .mosaic-block {
 .calendar-archives .cal-nav .year-nav .arrow-down {
     right: 10px;
 }
+.isotope-item .post-thumb {
+    width: 110px;
+    display: inline-block;
+}
+.isotope-item .entry-content {
+    display: inline-block;
+    width: 195px;
+}
