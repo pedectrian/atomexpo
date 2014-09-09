@@ -158,7 +158,7 @@
                 <!-- start main wrapper -->
                 <div class="main wrapper clearfix">
                     <!-- start main-content -->
-                    <div class="main-content">
+                    <div class="main-content three-fourths">
 
 
 
@@ -166,13 +166,6 @@
                         <div id="post-<?php the_ID(); ?>" <?php post_class("clearfix"); ?>>
 
                             <h1 class="full right last"><?php the_title(); ?></h1>
-                            
-                            <!-- META -->
-<!--                            <aside class="left-aside right fourth">-->
-<!--                                <ul class="meta">-->
-                                    <?php get_sidebar(); ?>
-<!--                                </ul>	-->
-<!--                            </aside> -->
 
                             <div class="three-fourths left">
 
@@ -253,6 +246,8 @@
 
 
                     </div>
+
+                    <?php get_sidebar(); ?>
                     <!-- end main-content -->
                 </div>
                 <!-- end main wrapper -->
