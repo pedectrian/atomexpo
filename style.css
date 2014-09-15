@@ -3967,3 +3967,11 @@ body.archive .mosaic-block {
     display: block;
     font-size: 14px;
 }
+
+body.category .post > h1 {
+    font-size: 18px;
+}
+
+body.category .post > div {
+    font-size: 14px !important;
+}
