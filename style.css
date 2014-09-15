@@ -3975,3 +3975,7 @@ body.category .post > h1 {
 body.category .post > div {
     font-size: 14px !important;
 }
+body.home #pb_block-4 {
+    padding-bottom: 0;
+    height: 170px;
+}
