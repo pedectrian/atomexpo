@@ -3929,7 +3929,7 @@ body.archive .mosaic-block {
     right: 10px;
 }
 .isotope-item {
-    margin-bottom: 0 !important;
+    margin-bottom: 10px !important;
 }
 .isotope-item .post-title {
     font-size: 16px;
@@ -3937,6 +3937,7 @@ body.archive .mosaic-block {
     display: inline-block;
     vertical-align: top;
     float: right;
+    margin: 0 !important;
 }
 .isotope-item .post-thumb {
     width: 110px;
@@ -3950,6 +3951,9 @@ body.archive .mosaic-block {
     width: 200px !important;
     vertical-align: top;
     float: right;
+}
+.isotope-item .entry-content > p:first-child {
+    margin-top: 0 !important;
 }
 #pb_block-4 h2 {
     margin: 10px 0 0 0 !important;
