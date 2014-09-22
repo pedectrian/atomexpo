@@ -3927,17 +3927,19 @@ body.archive .mosaic-block {
     font-size: 16px;
     width: 110px;
     display: inline-block;
+    vertical-align: top;
 }
 .isotope-item .post-thumb {
     width: 110px;
     display: inline-block;
+    vertical-align: top;
 }
 .isotope-item .entry-content {
     display: inline-block;
     font-size: 13px !important;
     width: 195px !important;
     vertical-align: top;
-    margin-top: -15px !important;
+    float: left;
 }
 #pb_block-4 h2 {
     margin: 10px 0 0 0 !important;
