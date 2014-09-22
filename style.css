@@ -3877,14 +3877,14 @@ body.archive .type-post .left-aside.fifth {
     vertical-align: top;
 }
 .vc_responsive .vc_span6 {
-    width: 420px !important;
+    width: 390px !important;
     margin-right: 50px;
 }
 .vc_responsive .vc_span6:nth-child(2),
 .vc_responsive .vc_span6:nth-child(4),
 .vc_responsive .vc_span6:nth-child(6),
 .vc_responsive .vc_span6:nth-child(8) {
-    padding-right: 0px;
+    margin-right: 0px;
 }
 .social-thumbs li {
     padding: 0 30px;
@@ -3928,18 +3928,20 @@ body.archive .mosaic-block {
     width: 195px;
     display: inline-block;
     vertical-align: top;
+    float: right;
 }
 .isotope-item .post-thumb {
     width: 110px;
     display: inline-block;
     vertical-align: top;
+    float: left;
 }
 .isotope-item .entry-content {
     display: inline-block;
     font-size: 13px !important;
     width: 195px !important;
     vertical-align: top;
-    float: left;
+    float: right;
 }
 #pb_block-4 h2 {
     margin: 10px 0 0 0 !important;
