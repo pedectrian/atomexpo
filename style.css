@@ -3877,7 +3877,7 @@ body.archive .type-post .left-aside.fifth {
     vertical-align: top;
 }
 .vc_responsive .vc_span6 {
-    width: 350px !important;
+    width: 320px !important;
     margin-right: 50px;
 }
 .vc_responsive .vc_span6:nth-child(2),
@@ -3929,11 +3929,11 @@ body.archive .mosaic-block {
     right: 10px;
 }
 .isotope-item {
-    margin-bottom: 10px;
+    margin-bottom: 0 !important;
 }
 .isotope-item .post-title {
     font-size: 16px;
-    width: 235px;
+    width: 200px;
     display: inline-block;
     vertical-align: top;
     float: right;
@@ -3947,7 +3947,7 @@ body.archive .mosaic-block {
 .isotope-item .entry-content {
     display: inline-block;
     font-size: 13px !important;
-    width: 235px !important;
+    width: 200px !important;
     vertical-align: top;
     float: right;
 }
