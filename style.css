@@ -65,7 +65,7 @@ body { font-size: 1em; line-height: 1.4; padding: 2em 1em 4em; overflow-y: scrol
 img { vertical-align: middle; border: none; }
 a{ text-decoration: none; outline: 0!important;}
 ol, ul{ margin: 0; padding: 0; }
-body {-webkit-font-smoothing: antialiased; font-smooth: always; -moz-osx-font-smoothing: grayscale; font: 16px/25px Georgia, "Times New Roman", Times, serif; }
+body {-webkit-font-smoothing: antialiased; font-smooth: always; -moz-osx-font-smoothing: grayscale; font: 15px/20px Georgia, "Times New Roman", Times, serif; }
 .outter-wrapper{  width: 1440px; margin: 0 auto; padding: 0em;}
 .wrapper { width: 1140px; margin: 0 auto; padding: 20px; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; }
 .boxed-page .sticky-header-wrapper .outter-wrapper{
