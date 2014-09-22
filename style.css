@@ -3877,14 +3877,14 @@ body.archive .type-post .left-aside.fifth {
     vertical-align: top;
 }
 .vc_responsive .vc_span6 {
-    width: 320px !important;
+    width: 370px !important;
     margin-right: 50px;
 }
-.vc_responsive .vc_span6:nth-child(2),
-.vc_responsive .vc_span6:nth-child(4),
-.vc_responsive .vc_span6:nth-child(6),
-.vc_responsive .vc_span6:nth-child(8) {
-    margin-right: 0;
+.vc_responsive .vc_span9 {
+    width: 840px !important;
+}
+.vc_responsive .vc_span3 {
+    width: 260px !important;
 }
 
 body.home #pb_block-1 .vc_responsive .vc_span2 {
