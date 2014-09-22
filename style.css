@@ -3924,7 +3924,9 @@ body.archive .mosaic-block {
     right: 10px;
 }
 .isotope-item .post-title {
-    font-size: 18px;
+    font-size: 16px;
+    width: 110px;
+    display: inline-block;
 }
 .isotope-item .post-thumb {
     width: 110px;

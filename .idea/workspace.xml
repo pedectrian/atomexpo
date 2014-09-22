@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f37f1a3a-11dd-47ea-9d01-c3e12a47a331" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style.css" afterPath="$PROJECT_DIR$/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="atomexpo.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -47,7 +46,7 @@
       <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="67" column="113" selection-start="1898" selection-end="1898" vertical-scroll-proportion="0.38196722" vertical-offset="772" max-vertical-offset="59790">
+            <state line="3935" column="8" selection-start="94888" selection-end="94888" vertical-scroll-proportion="0.58196723" vertical-offset="58670" max-vertical-offset="59820">
               <folding />
             </state>
           </provider>
@@ -181,6 +180,7 @@
     <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="SearchEverywhereHistory" value="" />
   </component>
   <component name="RunManager">
     <list size="0" />
@@ -510,7 +510,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="67" column="113" selection-start="1898" selection-end="1898" vertical-scroll-proportion="0.38196722" vertical-offset="772" max-vertical-offset="59790">
+        <state line="3935" column="8" selection-start="94888" selection-end="94888" vertical-scroll-proportion="0.58196723" vertical-offset="58670" max-vertical-offset="59820">
           <folding />
         </state>
       </provider>
