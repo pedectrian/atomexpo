@@ -3877,8 +3877,8 @@ body.archive .type-post .left-aside.fifth {
     vertical-align: top;
 }
 .vc_responsive .vc_span6 {
-    width: 360px !important;
-    padding-right: 50px;
+    width: 420px !important;
+    margin-right: 50px;
 }
 .vc_responsive .vc_span6:nth-child(2),
 .vc_responsive .vc_span6:nth-child(4),
