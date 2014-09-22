@@ -3877,7 +3877,7 @@ body.archive .type-post .left-aside.fifth {
     vertical-align: top;
 }
 .vc_responsive .vc_span6 {
-    width: 390px !important;
+    width: 375px !important;
     margin-right: 50px;
 }
 .vc_responsive .vc_span6:nth-child(2),
@@ -3886,6 +3886,13 @@ body.archive .type-post .left-aside.fifth {
 .vc_responsive .vc_span6:nth-child(8) {
     margin-right: 0px;
 }
+
+#pb_block-1 .vc_responsive .vc_span2 {
+    position: relative;
+    min-height: 1px;
+    width: 225px;
+}
+
 .social-thumbs li {
     padding: 0 30px;
     line-height: 150px;
