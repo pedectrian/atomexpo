@@ -17,6 +17,8 @@
     $page_type = mb_get_page_type();
 
     //DETERMINE BLOG STYLE
+    $sidebarName = '';
+
     switch ($page_type) {
         case 'home':
             $blog_style = $canon_options_post['homepage_blog_style'];
@@ -29,6 +31,21 @@
             $blog_style = $canon_options_post['cat_style'];
             $cat_obj = get_category_by_slug(get_query_var('category_name'));
             $category_slug = $cat_obj->slug;
+
+            if ($category_slug == 'news') {
+                $sidebarName = 'sidebar-news';
+            } else {
+                $sidebarName = 'exhibition';
+            }
+
+            break;
+        case 'tag':
+            $blog_style = 'sidebar';
+            $cat_obj = get_term_by('slug', get_query_var('tag'), 'post_tag');
+            $category_slug = $cat_obj->slug;
+
+            $sidebarName = 'sidebar-news';
+
             break;
         default:
             $blog_style = "full";
@@ -142,7 +159,7 @@
                         ?>
 
                             <!-- SIDEBAR -->
-                            <?php get_sidebar(); ?>
+                            <?php get_sidebar($sidebarName); ?>
 
                         <?php
                         }
