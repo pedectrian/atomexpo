@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f37f1a3a-11dd-47ea-9d01-c3e12a47a331" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inc/templates/template_blog_loop.php" afterPath="$PROJECT_DIR$/inc/templates/template_blog_loop.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inc/templates/template_blog.php" afterPath="$PROJECT_DIR$/inc/templates/template_blog.php" />
     </list>
     <ignored path="atomexpo.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -45,6 +45,15 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2840" column="32" selection-start="60513" selection-end="60515" vertical-scroll-proportion="-0.23076923" vertical-offset="42594" max-vertical-offset="60060">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="category.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/category.php">
           <provider selected="true" editor-type-id="text-editor">
@@ -63,19 +72,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="template_blog_loop.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/inc/templates/template_blog_loop.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="75" column="0" selection-start="5689" selection-end="5689" vertical-scroll-proportion="0.24788733" vertical-offset="1037" max-vertical-offset="3315">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="template_blog.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="template_blog.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/inc/templates/template_blog.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="146" column="64" selection-start="4966" selection-end="4966" vertical-scroll-proportion="2.0" vertical-offset="2238" max-vertical-offset="3090">
+            <state line="98" column="10" selection-start="3231" selection-end="3231" vertical-scroll-proportion="0.46568626" vertical-offset="1185" max-vertical-offset="3120">
               <folding />
             </state>
           </provider>
@@ -137,8 +137,8 @@
         <option value="$PROJECT_DIR$/functions.php" />
         <option value="$PROJECT_DIR$/sidebar-news.php" />
         <option value="$PROJECT_DIR$/sidebar-exhibition.php" />
-        <option value="$PROJECT_DIR$/inc/templates/template_blog.php" />
         <option value="$PROJECT_DIR$/inc/templates/template_blog_loop.php" />
+        <option value="$PROJECT_DIR$/inc/templates/template_blog.php" />
       </list>
     </option>
   </component>
@@ -274,7 +274,7 @@
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27038628" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -581,13 +581,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3950" column="13" selection-start="95131" selection-end="95131" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="60060">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tag.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="0" selection-start="112" selection-end="112" vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="180">
@@ -644,13 +637,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/inc/templates/template_blog.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="146" column="64" selection-start="4966" selection-end="4966" vertical-scroll-proportion="2.0" vertical-offset="2238" max-vertical-offset="3090">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/functions.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="626" column="54" selection-start="23920" selection-end="23920" vertical-scroll-proportion="-3.86" vertical-offset="8927" max-vertical-offset="12105">
@@ -663,6 +649,20 @@
     <entry file="file://$PROJECT_DIR$/inc/templates/template_blog_loop.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="75" column="0" selection-start="5689" selection-end="5689" vertical-scroll-proportion="0.24788733" vertical-offset="1037" max-vertical-offset="3315">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2840" column="32" selection-start="60513" selection-end="60515" vertical-scroll-proportion="-0.23076923" vertical-offset="42594" max-vertical-offset="60060">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/templates/template_blog.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="98" column="10" selection-start="3231" selection-end="3231" vertical-scroll-proportion="0.46568626" vertical-offset="1185" max-vertical-offset="3120">
           <folding />
         </state>
       </provider>

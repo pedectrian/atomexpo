@@ -19,6 +19,7 @@
     //DETERMINE BLOG STYLE
     $sidebarName = '';
     $taxonomyArgs = array();
+    $dateArgs = isset($_GET['yaer']) ? array('year' => $_GET['yaer']) : array();
 
     switch ($page_type) {
         case 'home':
@@ -96,7 +97,8 @@
             'paged'             => $paged,
             'post__not_in'      => $exclude_array,
         ),
-        $taxonomyArgs
+        $taxonomyArgs,
+        $dateArgs
     );
 
     $temp = $wp_query;
