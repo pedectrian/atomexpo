@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f37f1a3a-11dd-47ea-9d01-c3e12a47a331" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sidebar-exhibition.php" afterPath="$PROJECT_DIR$/sidebar-exhibition.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inc/templates/template_blog.php" afterPath="$PROJECT_DIR$/inc/templates/template_blog.php" />
     </list>
     <ignored path="atomexpo.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -72,10 +73,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="template_blog.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="template_blog.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/inc/templates/template_blog.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="138" column="8" selection-start="4800" selection-end="4800" vertical-scroll-proportion="-69.875" vertical-offset="393" max-vertical-offset="2925">
+            <state line="98" column="21" selection-start="3172" selection-end="3172" vertical-scroll-proportion="0.5833333" vertical-offset="1113" max-vertical-offset="3090">
               <folding />
             </state>
           </provider>
@@ -90,10 +91,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sidebar-exhibition.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="sidebar-exhibition.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sidebar-exhibition.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="55" selection-start="72" selection-end="72" vertical-scroll-proportion="0.024" vertical-offset="0" max-vertical-offset="625">
+            <state line="10" column="40" selection-start="490" selection-end="490" vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="240">
               <folding />
             </state>
           </provider>
@@ -136,9 +137,9 @@
         <option value="$PROJECT_DIR$/inc/templates/template_single.php" />
         <option value="$PROJECT_DIR$/style.css" />
         <option value="$PROJECT_DIR$/functions.php" />
-        <option value="$PROJECT_DIR$/inc/templates/template_blog.php" />
         <option value="$PROJECT_DIR$/sidebar-news.php" />
         <option value="$PROJECT_DIR$/sidebar-exhibition.php" />
+        <option value="$PROJECT_DIR$/inc/templates/template_blog.php" />
       </list>
     </option>
   </component>
@@ -653,16 +654,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/inc/templates/template_blog.php">
+    <entry file="file://$PROJECT_DIR$/sidebar-exhibition.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="138" column="8" selection-start="4800" selection-end="4800" vertical-scroll-proportion="-69.875" vertical-offset="393" max-vertical-offset="2925">
+        <state line="10" column="40" selection-start="490" selection-end="490" vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="240">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sidebar-exhibition.php">
+    <entry file="file://$PROJECT_DIR$/inc/templates/template_blog.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="55" selection-start="72" selection-end="72" vertical-scroll-proportion="0.024" vertical-offset="0" max-vertical-offset="625">
+        <state line="98" column="21" selection-start="3172" selection-end="3172" vertical-scroll-proportion="0.5833333" vertical-offset="1113" max-vertical-offset="3090">
           <folding />
         </state>
       </provider>

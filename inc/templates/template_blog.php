@@ -18,6 +18,7 @@
 
     //DETERMINE BLOG STYLE
     $sidebarName = '';
+    $taxonomyArgs = array();
 
     switch ($page_type) {
         case 'home':
@@ -38,6 +39,10 @@
                 $sidebarName = 'exhibition';
             }
 
+            $taxonomyArgs = array(
+                'category_name' => $category_slug
+            );
+
             break;
         case 'tag':
             $blog_style = 'sidebar';
@@ -45,6 +50,10 @@
             $category_slug = $cat_obj->slug;
 
             $sidebarName = 'news';
+
+            $taxonomyArgs = array(
+                'tag' => $category_slug
+            );
 
             break;
         default:
@@ -79,13 +88,15 @@
         $paged = 1; 
     }
 
-    $args = array(
-        'post_status'       => 'publish',
-        'orderby'           => 'date',
-        'order'             => 'DESC',
-        'paged'             => $paged,
-        'post__not_in'      => $exclude_array,
-        'category_name'     => $category_slug,
+    $args = array_merge(
+        array(
+            'post_status'       => 'publish',
+            'orderby'           => 'date',
+            'order'             => 'DESC',
+            'paged'             => $paged,
+            'post__not_in'      => $exclude_array,
+        ),
+        $taxonomyArgs
     );
 
     $temp = $wp_query;
