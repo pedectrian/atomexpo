@@ -79,8 +79,10 @@
       <file leaf-file-name="footer.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/footer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="108" selection-start="266" selection-end="266" vertical-scroll-proportion="0.22058824" vertical-offset="0" max-vertical-offset="645">
-              <folding />
+            <state line="9" column="16" selection-start="174" selection-end="174" vertical-scroll-proportion="0.22058824" vertical-offset="0" max-vertical-offset="645">
+              <folding>
+                <element signature="n#style#0;n#a#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -685,8 +687,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/footer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="108" selection-start="266" selection-end="266" vertical-scroll-proportion="0.22058824" vertical-offset="0" max-vertical-offset="645">
-          <folding />
+        <state line="9" column="16" selection-start="174" selection-end="174" vertical-scroll-proportion="0.22058824" vertical-offset="0" max-vertical-offset="645">
+          <folding>
+            <element signature="n#style#0;n#a#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
