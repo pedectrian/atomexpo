@@ -27,24 +27,6 @@
         case 'page':
             $blog_style = $canon_options_post['blog_style'];
             if ($cmb_pages_blog_style != "default") { $blog_style = $cmb_pages_blog_style; }
-
-            die('asdfasdf');
-            if ( is_single( $post->ID ) ) {
-                $post_categories = wp_get_post_categories( $post->ID );
-                $cats = array();
-
-                foreach($post_categories as $c){
-                    $cat = get_category( $c );
-
-                    if ($cat->slug == 'news') {
-                        $sidebarName = 'news';
-                    } else {
-                        $sidebarName = 'exhibition';
-                    }
-
-                    break;
-                }
-            }
             break;
         case 'category':
             $blog_style = $canon_options_post['cat_style'];

@@ -246,8 +246,24 @@
 
 
                     </div>
+                    <?php
 
-                    <?php get_sidebar(); ?>
+                        $post_categories = wp_get_post_categories( $post->ID );
+                        $cats = array();
+
+                        foreach($post_categories as $c){
+                            $cat = get_category( $c );
+
+                            if ($cat->slug == 'news') {
+                                $sidebarName = 'news';
+                            } else {
+                                $sidebarName = 'exhibition';
+                            }
+
+                            break;
+                        }
+                    ?>
+                    <?php get_sidebar($sidebarName); ?>
                     <!-- end main-content -->
                 </div>
                 <!-- end main wrapper -->
