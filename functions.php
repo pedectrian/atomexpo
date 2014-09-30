@@ -441,6 +441,8 @@ SETUP THEME
 					$cwa_name = $canon_options_advanced['custom_widget_areas'][$i]['name'];
 					$cwa_slug = mb_create_slug($cwa_name);
 
+                    var_dump($cwa_name); die;
+
 					if (function_exists('register_sidebar') && !empty($cwa_name)) {
 						register_sidebar(array(  
 							'id' => 'canon_cwa_' . $cwa_slug,
