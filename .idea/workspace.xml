@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f37f1a3a-11dd-47ea-9d01-c3e12a47a331" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sidebar-exhibition.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sidebar-news.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inc/templates/template_blog.php" afterPath="$PROJECT_DIR$/inc/templates/template_blog.php" />
     </list>
     <ignored path="atomexpo.iws" />
@@ -27,10 +25,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="functions.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="functions.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/functions.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="274" column="12" selection-start="12024" selection-end="12024" vertical-scroll-proportion="-3.7009804" vertical-offset="6105" max-vertical-offset="11775">
+            <state line="274" column="12" selection-start="12024" selection-end="12024" vertical-scroll-proportion="94.375" vertical-offset="6105" max-vertical-offset="11775">
               <folding>
                 <marker date="1410291662000" expanded="true" signature="18698:18714" placeholder="Insert into ..." />
               </folding>
@@ -74,10 +72,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="template_blog.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="template_blog.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/inc/templates/template_blog.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="162" column="0" selection-start="5515" selection-end="5515" vertical-scroll-proportion="-15.5" vertical-offset="2058" max-vertical-offset="2925">
+            <state line="42" column="23" selection-start="1510" selection-end="1510" vertical-scroll-proportion="0.5637255" vertical-offset="285" max-vertical-offset="2940">
               <folding />
             </state>
           </provider>
@@ -595,13 +593,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tag.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="112" selection-end="112" vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="180">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="3950" column="13" selection-start="95131" selection-end="95131" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="60060">
@@ -623,23 +614,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/archive.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="121" column="28" selection-start="5242" selection-end="5331" vertical-scroll-proportion="-13.625" vertical-offset="1488" max-vertical-offset="2100">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/category.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="649">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/inc/templates/template_blog.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="162" column="0" selection-start="5515" selection-end="5515" vertical-scroll-proportion="-15.5" vertical-offset="2058" max-vertical-offset="2925">
           <folding />
         </state>
       </provider>
@@ -660,10 +637,31 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/functions.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="274" column="12" selection-start="12024" selection-end="12024" vertical-scroll-proportion="-3.7009804" vertical-offset="6105" max-vertical-offset="11775">
+        <state line="274" column="12" selection-start="12024" selection-end="12024" vertical-scroll-proportion="94.375" vertical-offset="6105" max-vertical-offset="11775">
           <folding>
             <marker date="1410291662000" expanded="true" signature="18698:18714" placeholder="Insert into ..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/archive.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="121" column="28" selection-start="5242" selection-end="5331" vertical-scroll-proportion="-13.625" vertical-offset="1488" max-vertical-offset="2100">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tag.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="0" selection-start="112" selection-end="112" vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="180">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/templates/template_blog.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="23" selection-start="1510" selection-end="1510" vertical-scroll-proportion="0.5637255" vertical-offset="285" max-vertical-offset="2940">
+          <folding />
         </state>
       </provider>
     </entry>
