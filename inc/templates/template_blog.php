@@ -28,8 +28,8 @@
             $blog_style = $canon_options_post['blog_style'];
             if ($cmb_pages_blog_style != "default") { $blog_style = $cmb_pages_blog_style; }
 
+            die('asdfasdf');
             if ( is_single( $post->ID ) ) {
-                die('asdfasdf');
                 $post_categories = wp_get_post_categories( $post->ID );
                 $cats = array();
 
