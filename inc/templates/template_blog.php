@@ -159,7 +159,7 @@
                         ?>
 
                             <!-- SIDEBAR -->
-                            <?php var_dump($sidebarName); die; get_sidebar($sidebarName); ?>
+                            <?php get_sidebar('canon_cwa_' . $sidebarName); ?>
 
                         <?php
                         }
