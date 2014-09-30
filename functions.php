@@ -313,9 +313,31 @@ SETUP THEME
 				'before_title' => '<h3 class="widget-title">',  
 				'after_title' => '</h3>'
 			)); 
-		 }
+		}
 
-		if (function_exists('register_sidebar')) {
+        if (function_exists('register_sidebar')) {
+            register_sidebar(array(
+                'id' => "canon_exhibition_sidebar_widget_area",
+                'name' => 'Exhibition Sidebar Widget Area',
+                'before_widget' => '<div id="%1$s" class="widget %2$s">',
+                'after_widget' => '</div><hr class="dots"/>',
+                'before_title' => '<h3 class="widget-title">',
+                'after_title' => '</h3>'
+            ));
+        }
+
+        if (function_exists('register_sidebar')) {
+            register_sidebar(array(
+                'id' => "canon_news_sidebar_widget_area",
+                'name' => 'News Sidebar Widget Area',
+                'before_widget' => '<div id="%1$s" class="widget %2$s">',
+                'after_widget' => '</div><hr class="dots"/>',
+                'before_title' => '<h3 class="widget-title">',
+                'after_title' => '</h3>'
+            ));
+        }
+
+        if (function_exists('register_sidebar')) {
 			register_sidebar(array(  
 				'id' => "canon_contact_sidebar_widget_area",
 				'name' => 'Contact Sidebar Widget Area',  
