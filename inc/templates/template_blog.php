@@ -40,9 +40,9 @@
 
             break;
         case 'tag':
-            die('tag');
             $blog_style = 'sidebar';
             $cat_obj = get_term_by('slug', get_query_var('tag'), 'post_tag');
+            var_dump($cat_obj); die;
             $category_slug = $cat_obj->slug;
 
             $sidebarName = 'sidebar-news';
