@@ -26,8 +26,8 @@
             die('asdf');
             break;
         case 'post':
-
-            break
+            die('2');
+            break;
         case 'page':
             $blog_style = $canon_options_post['blog_style'];
             if ($cmb_pages_blog_style != "default") { $blog_style = $cmb_pages_blog_style; }
