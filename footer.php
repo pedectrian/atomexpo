@@ -6,6 +6,9 @@
 
 ?>
 
+<?php if (!is_home()): ?>
+    <a href="<?php home_url(); ?>" style="display: block;width: 1100px; text-align: center; margin:20px 0;">&larr; Назад </a>
+<?php endif; ?>
       <!-- FOOTER -->
       <?php
 
@@ -26,9 +29,6 @@
       <!-- GOOGLE ANALYTICS-->
       <?php if (!empty($canon_options['google_analytics_code'])) echo $canon_options['google_analytics_code']; ?>
 
-    <?php if (!is_home()): ?>
-        <a href="<?php home_url(); ?>" style="display: block;width: 1100px; text-align: center; margin:20px 0;">&larr; Назад </a>
-    <?php endif; ?>
 
         <!-- WP FOOTER -->
         <?php wp_footer(); ?>
