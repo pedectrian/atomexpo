@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f37f1a3a-11dd-47ea-9d01-c3e12a47a331" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inc/templates/template_blog.php" afterPath="$PROJECT_DIR$/inc/templates/template_blog.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inc/templates/template_blog_loop.php" afterPath="$PROJECT_DIR$/inc/templates/template_blog_loop.php" />
     </list>
     <ignored path="atomexpo.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -36,15 +36,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="archive.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/archive.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="123" column="44" selection-start="5324" selection-end="5324" vertical-scroll-proportion="-14.875" vertical-offset="1488" max-vertical-offset="2100">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="sidebar-search.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sidebar-search.php">
           <provider selected="true" editor-type-id="text-editor">
@@ -72,10 +63,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="template_blog.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="template_blog_loop.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/inc/templates/template_blog_loop.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="196" column="76" selection-start="15027" selection-end="15027" vertical-scroll-proportion="0.60294116" vertical-offset="2571" max-vertical-offset="3360">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="template_blog.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/inc/templates/template_blog.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="146" column="64" selection-start="4966" selection-end="4966" vertical-scroll-proportion="0.5833333" vertical-offset="1833" max-vertical-offset="3090">
+            <state line="146" column="64" selection-start="4966" selection-end="4966" vertical-scroll-proportion="2.0" vertical-offset="2238" max-vertical-offset="3090">
               <folding />
             </state>
           </provider>
@@ -132,13 +132,13 @@
       <list>
         <option value="$PROJECT_DIR$/searchform.php" />
         <option value="$PROJECT_DIR$/taxonomy-people_category.php" />
-        <option value="$PROJECT_DIR$/inc/templates/template_blog_loop.php" />
         <option value="$PROJECT_DIR$/inc/templates/template_single.php" />
         <option value="$PROJECT_DIR$/style.css" />
         <option value="$PROJECT_DIR$/functions.php" />
         <option value="$PROJECT_DIR$/sidebar-news.php" />
         <option value="$PROJECT_DIR$/sidebar-exhibition.php" />
         <option value="$PROJECT_DIR$/inc/templates/template_blog.php" />
+        <option value="$PROJECT_DIR$/inc/templates/template_blog_loop.php" />
       </list>
     </option>
   </component>
@@ -567,13 +567,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/inc/templates/template_blog_loop.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="47" selection-start="1332" selection-end="1332" vertical-scroll-proportion="0.0" vertical-offset="1206" max-vertical-offset="3420">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/404.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="31" column="40" selection-start="1158" selection-end="1211" vertical-scroll-proportion="0.0" vertical-offset="368" max-vertical-offset="765">
@@ -662,7 +655,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/inc/templates/template_blog.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="146" column="64" selection-start="4966" selection-end="4966" vertical-scroll-proportion="0.5833333" vertical-offset="1833" max-vertical-offset="3090">
+        <state line="146" column="64" selection-start="4966" selection-end="4966" vertical-scroll-proportion="2.0" vertical-offset="2238" max-vertical-offset="3090">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/templates/template_blog_loop.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="196" column="76" selection-start="15027" selection-end="15027" vertical-scroll-proportion="0.60294116" vertical-offset="2571" max-vertical-offset="3360">
           <folding />
         </state>
       </provider>
