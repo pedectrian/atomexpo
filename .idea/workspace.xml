@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f37f1a3a-11dd-47ea-9d01-c3e12a47a331" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/footer.php" afterPath="$PROJECT_DIR$/footer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inc/templates/template_blog.php" afterPath="$PROJECT_DIR$/inc/templates/template_blog.php" />
     </list>
     <ignored path="atomexpo.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -61,25 +61,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="template_blog.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="template_blog.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/inc/templates/template_blog.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="47" selection-start="813" selection-end="813" vertical-scroll-proportion="-4.375" vertical-offset="210" max-vertical-offset="3120">
-              <folding>
-                <marker date="1412088591000" expanded="true" signature="3588:3621" placeholder="..." />
-                <marker date="1412088591000" expanded="true" signature="3924:6138" placeholder="..." />
-                <marker date="1412088591000" expanded="true" signature="4012:6083" placeholder="..." />
-                <marker date="1412088591000" expanded="true" signature="4109:6021" placeholder="..." />
-                <marker date="1412088591000" expanded="true" signature="4270:5645" placeholder="..." />
-              </folding>
+            <state line="28" column="12" selection-start="1035" selection-end="1035" vertical-scroll-proportion="0.5163934" vertical-offset="105" max-vertical-offset="3180">
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="footer.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="footer.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/footer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="28" selection-start="160" selection-end="160" vertical-scroll-proportion="0.19607843" vertical-offset="0" max-vertical-offset="645">
+            <state line="8" column="28" selection-start="160" selection-end="160" vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="645">
               <folding>
                 <element signature="n#style#0;n#a#0;n#!!top" expanded="true" />
               </folding>
@@ -150,8 +144,8 @@
         <option value="$PROJECT_DIR$/sidebar-news.php" />
         <option value="$PROJECT_DIR$/sidebar-exhibition.php" />
         <option value="$PROJECT_DIR$/inc/templates/template_blog_loop.php" />
-        <option value="$PROJECT_DIR$/inc/templates/template_blog.php" />
         <option value="$PROJECT_DIR$/footer.php" />
+        <option value="$PROJECT_DIR$/inc/templates/template_blog.php" />
       </list>
     </option>
   </component>
@@ -249,6 +243,7 @@
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="SearchEverywhereHistory" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../st-category-email-subscribe" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -672,25 +667,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/inc/templates/template_blog.php">
+    <entry file="file://$PROJECT_DIR$/footer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="47" selection-start="813" selection-end="813" vertical-scroll-proportion="-4.375" vertical-offset="210" max-vertical-offset="3120">
+        <state line="8" column="28" selection-start="160" selection-end="160" vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="645">
           <folding>
-            <marker date="1412088591000" expanded="true" signature="3588:3621" placeholder="..." />
-            <marker date="1412088591000" expanded="true" signature="3924:6138" placeholder="..." />
-            <marker date="1412088591000" expanded="true" signature="4012:6083" placeholder="..." />
-            <marker date="1412088591000" expanded="true" signature="4109:6021" placeholder="..." />
-            <marker date="1412088591000" expanded="true" signature="4270:5645" placeholder="..." />
+            <element signature="n#style#0;n#a#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/footer.php">
+    <entry file="file://$PROJECT_DIR$/inc/templates/template_blog.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="28" selection-start="160" selection-end="160" vertical-scroll-proportion="0.19607843" vertical-offset="0" max-vertical-offset="645">
-          <folding>
-            <element signature="n#style#0;n#a#0;n#!!top" expanded="true" />
-          </folding>
+        <state line="28" column="12" selection-start="1035" selection-end="1035" vertical-scroll-proportion="0.5163934" vertical-offset="105" max-vertical-offset="3180">
+          <folding />
         </state>
       </provider>
     </entry>

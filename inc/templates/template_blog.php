@@ -24,6 +24,10 @@
         case 'home':
             $blog_style = $canon_options_post['homepage_blog_style'];
             break;
+        case 'post':
+            die('asdf');
+            
+            break
         case 'page':
             $blog_style = $canon_options_post['blog_style'];
             if ($cmb_pages_blog_style != "default") { $blog_style = $cmb_pages_blog_style; }
