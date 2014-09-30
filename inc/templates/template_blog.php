@@ -29,6 +29,7 @@
             if ($cmb_pages_blog_style != "default") { $blog_style = $cmb_pages_blog_style; }
 
             if ( is_single( $post->ID ) ) {
+                die('asdfasdf');
                 $post_categories = wp_get_post_categories( $post->ID );
                 $cats = array();
 
