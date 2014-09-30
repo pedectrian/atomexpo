@@ -75,7 +75,7 @@
       <file leaf-file-name="template_blog.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/inc/templates/template_blog.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="20" selection-start="884" selection-end="884" vertical-scroll-proportion="0.39215687" vertical-offset="105" max-vertical-offset="3120">
+            <state line="21" column="47" selection-start="813" selection-end="813" vertical-scroll-proportion="0.29411766" vertical-offset="135" max-vertical-offset="3120">
               <folding />
             </state>
           </provider>
@@ -662,7 +662,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/inc/templates/template_blog.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="20" selection-start="884" selection-end="884" vertical-scroll-proportion="0.39215687" vertical-offset="105" max-vertical-offset="3120">
+        <state line="21" column="47" selection-start="813" selection-end="813" vertical-scroll-proportion="0.29411766" vertical-offset="135" max-vertical-offset="3120">
           <folding />
         </state>
       </provider>
