@@ -159,7 +159,7 @@
                         ?>
 
                             <!-- SIDEBAR -->
-                            <?php get_sidebar($sidebarName); ?>
+                            <?php var_dump($sidebarName); die; get_sidebar($sidebarName); ?>
 
                         <?php
                         }
