@@ -19,8 +19,7 @@
     //DETERMINE BLOG STYLE
     $sidebarName = '';
     $taxonomyArgs = array();
-    $dateArgs = isset($_GET['yaer']) ? array('year' => $_GET['yaer']) : array();
-    echo $page_type; die($page_type);
+    $dateArgs = isset($_GET['y']) ? array('y' => $_GET['y']) : array();
     switch ($page_type) {
         case 'home':
             $blog_style = $canon_options_post['homepage_blog_style'];
@@ -97,9 +96,10 @@
             'paged'             => $paged,
             'post__not_in'      => $exclude_array,
         ),
-        $taxonomyArgs,
-        $dateArgs
+        $taxonomyArgs
     );
+
+    $args = array_merge($args, $dateArgs);
 
     $temp = $wp_query;
     if (!class_exists('TribeEvents')) { $wp_query = null; }
