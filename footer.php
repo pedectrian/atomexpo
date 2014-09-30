@@ -29,7 +29,9 @@
       <!-- WP FOOTER -->
       <?php wp_footer(); ?>
         
-			        
+        <?php if (!is_home()): ?>
+            <a href="<?php home_url(); ?>">&larr; Назад </a>
+        <?php endif; ?>
 	</body>
 	
 </html>
