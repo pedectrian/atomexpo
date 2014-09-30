@@ -72,10 +72,7 @@
                                         ?>
 
                                         <!-- excerpt -->
-                                        <?php if (empty($cmb_excerpt)) { echo mb_make_excerpt(get_the_content(), $default_excerpt_length, true); } else {echo do_shortcode($cmb_excerpt);} ?>
-
-                                        <!-- read more -->
-                                        <p><a href="<?php the_permalink(); ?>" class="btn"><?php _e('Читать далее', 'loc_canon'); ?></a></p>
+                                        <a href="<?php the_permalink(); ?>"><?php if (empty($cmb_excerpt)) { echo mb_make_excerpt(get_the_content(), $default_excerpt_length, true); } else {echo do_shortcode($cmb_excerpt);} ?></a>
 
                                     </div>
 
