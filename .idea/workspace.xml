@@ -28,9 +28,9 @@
       <file leaf-file-name="functions.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/functions.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="447" column="61" selection-start="17999" selection-end="17999" vertical-scroll-proportion="0.48634812" vertical-offset="6150" max-vertical-offset="11805">
+            <state line="459" column="16" selection-start="18271" selection-end="18271" vertical-scroll-proportion="0.7935154" vertical-offset="6150" max-vertical-offset="11820">
               <folding>
-                <marker date="1412083537000" expanded="true" signature="18745:18761" placeholder="Insert into ..." />
+                <marker date="1412083560000" expanded="true" signature="18756:18772" placeholder="Insert into ..." />
               </folding>
             </state>
           </provider>
@@ -660,9 +660,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/functions.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="447" column="61" selection-start="17999" selection-end="17999" vertical-scroll-proportion="0.48634812" vertical-offset="6150" max-vertical-offset="11805">
+        <state line="459" column="16" selection-start="18271" selection-end="18271" vertical-scroll-proportion="0.7935154" vertical-offset="6150" max-vertical-offset="11820">
           <folding>
-            <marker date="1412083537000" expanded="true" signature="18745:18761" placeholder="Insert into ..." />
+            <marker date="1412083560000" expanded="true" signature="18756:18772" placeholder="Insert into ..." />
           </folding>
         </state>
       </provider>
