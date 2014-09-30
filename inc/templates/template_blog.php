@@ -20,7 +20,7 @@
     $sidebarName = '';
     $taxonomyArgs = array();
     $dateArgs = isset($_GET['yaer']) ? array('year' => $_GET['yaer']) : array();
-
+    echo $page_type; die($page_type);
     switch ($page_type) {
         case 'home':
             $blog_style = $canon_options_post['homepage_blog_style'];
