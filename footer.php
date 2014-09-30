@@ -7,7 +7,7 @@
 ?>
 
 <?php if (!is_home()): ?>
-    <a href="<?php home_url(); ?>" style="display: block;width: 1100px; text-align: center; margin:20px 0;">&larr; Назад </a>
+    <a href="<?php home_url(); ?>" style="display: block;width: 1100px; text-align: center; margin:20px auto;">&larr; Назад </a>
 <?php endif; ?>
       <!-- FOOTER -->
       <?php
