@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f37f1a3a-11dd-47ea-9d01-c3e12a47a331" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sidebar-exhibition.php" afterPath="$PROJECT_DIR$/sidebar-exhibition.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inc/templates/template_blog.php" afterPath="$PROJECT_DIR$/inc/templates/template_blog.php" />
     </list>
     <ignored path="atomexpo.iws" />
@@ -76,7 +75,7 @@
       <file leaf-file-name="template_blog.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/inc/templates/template_blog.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="98" column="21" selection-start="3172" selection-end="3172" vertical-scroll-proportion="0.5833333" vertical-offset="1113" max-vertical-offset="3090">
+            <state line="146" column="64" selection-start="4966" selection-end="4966" vertical-scroll-proportion="0.5833333" vertical-offset="1833" max-vertical-offset="3090">
               <folding />
             </state>
           </provider>
@@ -663,7 +662,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/inc/templates/template_blog.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="98" column="21" selection-start="3172" selection-end="3172" vertical-scroll-proportion="0.5833333" vertical-offset="1113" max-vertical-offset="3090">
+        <state line="146" column="64" selection-start="4966" selection-end="4966" vertical-scroll-proportion="0.5833333" vertical-offset="1833" max-vertical-offset="3090">
           <folding />
         </state>
       </provider>

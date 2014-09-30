@@ -131,7 +131,7 @@
                         
                         <?php 
 
-                            if ( ($page_type == "category") && (($canon_options_post['show_cat_title'] == "checked") || ($canon_options_post['show_cat_description'] == "checked")) ) {
+                            if ( ($page_type == "category" || $page_type == "tag") && (($canon_options_post['show_cat_title'] == "checked") || ($canon_options_post['show_cat_description'] == "checked")) ) {
                                 
                                 echo '<div class="category_header">';
 
@@ -144,7 +144,7 @@
                                 } 
 
                                 // CAT DESCRIPTION
-                                if ($canon_options_post['show_cat_description'] == "checked") {
+                                if ($page_type == "category" && $canon_options_post['show_cat_description'] == "checked") {
 
                                     echo "<span class='lead'>";
                                     echo category_description();
