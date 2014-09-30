@@ -33,7 +33,7 @@
             $category_slug = $cat_obj->slug;
 
             if ($category_slug == 'news') {
-                $sidebarName = 'sidebar-news';
+                $sidebarName = 'news';
             } else {
                 $sidebarName = 'exhibition';
             }
@@ -42,10 +42,9 @@
         case 'tag':
             $blog_style = 'sidebar';
             $cat_obj = get_term_by('slug', get_query_var('tag'), 'post_tag');
-            var_dump($cat_obj); die;
             $category_slug = $cat_obj->slug;
 
-            $sidebarName = 'sidebar-news';
+            $sidebarName = 'news';
 
             break;
         default:
